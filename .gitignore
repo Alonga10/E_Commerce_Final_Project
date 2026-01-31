@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+
+# Pip cache
+.pip-cache/
+
+# Word / Office temp files
+~$*.docx
+~*.tmp
+*.tmp
+
+# Spark / Hadoop junk
+*.crc
+_SUCCESS
+
+# OS
+Thumbs.db
+.DS_Store
