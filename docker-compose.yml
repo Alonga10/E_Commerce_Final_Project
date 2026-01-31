@@ -1,0 +1,24 @@
+services:
+  mongodb:
+    image: mongo:7
+    container_name: auca_mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+  hbase:
+    image: dajobe/hbase
+    container_name: auca_hbase
+    ports:
+      - "2181:2181"
+      - "16000:16000"
+      - "16010:16010"
+      - "16020:16020"
+      - "9090:9090"
+      - "9095:9095"
+    environment:
+      - HBASE_MANAGES_ZK=true
+
+volumes:
+  mongo_data:

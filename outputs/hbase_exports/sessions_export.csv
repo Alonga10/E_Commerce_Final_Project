@@ -1,0 +1,501 @@
+rowkey,cf:user_id,cf:session_id,cf:start_time,cf:end_time,cf:duration_seconds,cf:conversion_status,cf:referrer,cf:page_views_count,cf:viewed_products_count,cf:geo_city,cf:geo_state,cf:geo_country,cf:device_type,cf:device_os,cf:device_browser
+user_000000#2025-10-23T19:20:03#sess_d8adcc00ef,user_000000,sess_d8adcc00ef,2025-10-23T19:20:03,2025-10-23T20:12:20,3137,abandoned,affiliate,11,7,Lake Deborah,MS,GW,desktop,Android,Safari
+user_000000#2025-10-24T18:28:57#sess_040af6d18f,user_000000,sess_040af6d18f,2025-10-24T18:28:57,2025-10-24T18:49:35,1238,abandoned,search_engine,11,7,Lake Deborah,MS,GW,mobile,macOS,Chrome
+user_000000#2025-10-25T19:10:52#sess_58d994ad07,user_000000,sess_58d994ad07,2025-10-25T19:10:52,2025-10-25T19:29:51,1139,abandoned,direct,6,3,Lake Deborah,MS,GW,mobile,macOS,Chrome
+user_000000#2025-10-26T20:19:26#sess_02415618db,user_000000,sess_02415618db,2025-10-26T20:19:26,2025-10-26T21:00:50,2484,abandoned,email,7,3,Lake Deborah,MS,GW,desktop,iOS,Safari
+user_000000#2025-10-27T01:17:35#sess_9aea5effdd,user_000000,sess_9aea5effdd,2025-10-27T01:17:35,2025-10-27T01:21:15,220,converted,direct,14,5,Lake Deborah,MS,GW,mobile,Android,Safari
+user_000000#2025-10-28T01:19:28#sess_1439441c19,user_000000,sess_1439441c19,2025-10-28T01:19:28,2025-10-28T02:00:00,2432,browsed,social,13,2,Lake Deborah,MS,GW,tablet,Windows,Firefox
+user_000000#2025-10-28T18:03:43#sess_37b06ad5da,user_000000,sess_37b06ad5da,2025-10-28T18:03:43,2025-10-28T18:40:19,2196,converted,direct,13,5,Lake Deborah,MS,GW,desktop,Android,Edge
+user_000000#2025-10-30T04:40:55#sess_65a478dd4f,user_000000,sess_65a478dd4f,2025-10-30T04:40:55,2025-10-30T05:30:26,2971,converted,email,14,4,Lake Deborah,MS,GW,tablet,macOS,Edge
+user_000000#2025-11-01T23:29:22#sess_44bf227020,user_000000,sess_44bf227020,2025-11-01T23:29:22,2025-11-02T00:26:35,3433,abandoned,affiliate,5,2,Lake Deborah,MS,GW,tablet,Windows,Edge
+user_000000#2025-11-03T07:02:25#sess_60e1f14b91,user_000000,sess_60e1f14b91,2025-11-03T07:02:25,2025-11-03T07:39:54,2249,converted,direct,16,7,Lake Deborah,MS,GW,desktop,iOS,Safari
+user_000000#2025-11-04T23:15:43#sess_ea41cedf47,user_000000,sess_ea41cedf47,2025-11-04T23:15:43,2025-11-04T23:49:12,2009,abandoned,email,16,8,Lake Deborah,MS,GW,mobile,iOS,Edge
+user_000000#2025-11-07T13:52:17#sess_c12d4a3b5a,user_000000,sess_c12d4a3b5a,2025-11-07T13:52:17,2025-11-07T14:03:25,668,browsed,affiliate,9,3,Lake Deborah,MS,GW,tablet,Android,Edge
+user_000000#2025-11-11T18:59:28#sess_1df8e86db9,user_000000,sess_1df8e86db9,2025-11-11T18:59:28,2025-11-11T19:37:56,2308,abandoned,direct,16,9,Lake Deborah,MS,GW,mobile,Windows,Chrome
+user_000000#2025-11-13T18:19:23#sess_477737340c,user_000000,sess_477737340c,2025-11-13T18:19:23,2025-11-13T18:40:54,1291,browsed,social,11,5,Lake Deborah,MS,GW,desktop,macOS,Chrome
+user_000000#2025-11-20T12:27:15#sess_b47fe484ed,user_000000,sess_b47fe484ed,2025-11-20T12:27:15,2025-11-20T12:33:05,350,abandoned,direct,13,6,Lake Deborah,MS,GW,tablet,Windows,Chrome
+user_000000#2025-11-20T16:15:11#sess_4e9f76826d,user_000000,sess_4e9f76826d,2025-11-20T16:15:11,2025-11-20T17:13:08,3477,browsed,direct,4,1,Lake Deborah,MS,GW,desktop,Windows,Firefox
+user_000000#2025-11-21T02:08:08#sess_7da5de2c7b,user_000000,sess_7da5de2c7b,2025-11-21T02:08:08,2025-11-21T02:39:08,1860,abandoned,search_engine,6,3,Lake Deborah,MS,GW,mobile,Android,Edge
+user_000000#2025-11-21T06:53:53#sess_728c413ff0,user_000000,sess_728c413ff0,2025-11-21T06:53:53,2025-11-21T07:39:27,2734,abandoned,search_engine,9,2,Lake Deborah,MS,GW,tablet,Windows,Chrome
+user_000000#2025-11-29T08:09:42#sess_d218580cf4,user_000000,sess_d218580cf4,2025-11-29T08:09:42,2025-11-29T08:24:56,914,browsed,email,14,5,Lake Deborah,MS,GW,mobile,Android,Edge
+user_000000#2025-11-29T12:39:19#sess_97cc086698,user_000000,sess_97cc086698,2025-11-29T12:39:19,2025-11-29T12:51:25,726,abandoned,search_engine,15,5,Lake Deborah,MS,GW,desktop,Windows,Safari
+user_000000#2025-12-01T00:02:55#sess_055522b49b,user_000000,sess_055522b49b,2025-12-01T00:02:55,2025-12-01T00:31:01,1686,converted,email,15,4,Lake Deborah,MS,GW,desktop,macOS,Firefox
+user_000000#2025-12-05T23:23:30#sess_4c63f13284,user_000000,sess_4c63f13284,2025-12-05T23:23:30,2025-12-06T00:21:46,3496,browsed,social,4,1,Lake Deborah,MS,GW,desktop,iOS,Safari
+user_000000#2025-12-07T12:14:30#sess_b745321105,user_000000,sess_b745321105,2025-12-07T12:14:30,2025-12-07T12:22:45,495,abandoned,social,10,3,Lake Deborah,MS,GW,desktop,macOS,Chrome
+user_000000#2025-12-07T18:05:34#sess_3e5c5eb0f9,user_000000,sess_3e5c5eb0f9,2025-12-07T18:05:34,2025-12-07T18:54:07,2913,abandoned,email,5,3,Lake Deborah,MS,GW,tablet,macOS,Edge
+user_000000#2025-12-08T00:27:01#sess_85ea267d7d,user_000000,sess_85ea267d7d,2025-12-08T00:27:01,2025-12-08T00:46:59,1198,converted,affiliate,13,3,Lake Deborah,MS,GW,tablet,macOS,Firefox
+user_000000#2025-12-09T02:23:52#sess_f3857c4fb7,user_000000,sess_f3857c4fb7,2025-12-09T02:23:52,2025-12-09T02:46:18,1346,abandoned,social,14,6,Lake Deborah,MS,GW,desktop,iOS,Edge
+user_000000#2025-12-10T13:40:58#sess_8d966ce632,user_000000,sess_8d966ce632,2025-12-10T13:40:58,2025-12-10T13:59:32,1114,abandoned,social,8,3,Lake Deborah,MS,GW,desktop,iOS,Firefox
+user_000000#2025-12-10T20:39:44#sess_546569bf7e,user_000000,sess_546569bf7e,2025-12-10T20:39:44,2025-12-10T20:42:28,164,browsed,social,5,2,Lake Deborah,MS,GW,desktop,macOS,Firefox
+user_000000#2025-12-14T09:14:38#sess_eef82b60cd,user_000000,sess_eef82b60cd,2025-12-14T09:14:38,2025-12-14T09:32:58,1100,abandoned,affiliate,4,2,Lake Deborah,MS,GW,mobile,iOS,Chrome
+user_000000#2025-12-15T10:30:45#sess_9e600516c8,user_000000,sess_9e600516c8,2025-12-15T10:30:45,2025-12-15T10:57:35,1610,browsed,search_engine,7,2,Lake Deborah,MS,GW,mobile,iOS,Chrome
+user_000000#2025-12-18T03:07:29#sess_de124e2d7f,user_000000,sess_de124e2d7f,2025-12-18T03:07:29,2025-12-18T04:04:15,3406,abandoned,direct,6,2,Lake Deborah,MS,GW,tablet,Android,Safari
+user_000000#2025-12-19T07:09:21#sess_7379cb7605,user_000000,sess_7379cb7605,2025-12-19T07:09:21,2025-12-19T08:02:02,3161,browsed,email,12,4,Lake Deborah,MS,GW,tablet,iOS,Firefox
+user_000000#2025-12-19T09:06:36#sess_1b3de69c4e,user_000000,sess_1b3de69c4e,2025-12-19T09:06:36,2025-12-19T09:40:30,2034,browsed,search_engine,8,5,Lake Deborah,MS,GW,tablet,Android,Edge
+user_000000#2025-12-19T13:22:32#sess_456f10f023,user_000000,sess_456f10f023,2025-12-19T13:22:32,2025-12-19T14:08:16,2744,converted,search_engine,7,1,Lake Deborah,MS,GW,desktop,Android,Chrome
+user_000000#2025-12-21T15:30:33#sess_e35806c1ed,user_000000,sess_e35806c1ed,2025-12-21T15:30:33,2025-12-21T15:41:27,654,converted,email,15,6,Lake Deborah,MS,GW,mobile,iOS,Safari
+user_000000#2025-12-23T06:56:06#sess_62d39b50a2,user_000000,sess_62d39b50a2,2025-12-23T06:56:06,2025-12-23T07:12:58,1012,abandoned,affiliate,14,5,Lake Deborah,MS,GW,desktop,Android,Safari
+user_000000#2025-12-26T19:42:04#sess_56a4174611,user_000000,sess_56a4174611,2025-12-26T19:42:04,2025-12-26T19:52:34,630,browsed,affiliate,16,2,Lake Deborah,MS,GW,tablet,macOS,Edge
+user_000000#2025-12-27T08:34:37#sess_d7d06379b7,user_000000,sess_d7d06379b7,2025-12-27T08:34:37,2025-12-27T09:07:44,1987,converted,search_engine,11,3,Lake Deborah,MS,GW,desktop,iOS,Chrome
+user_000000#2025-12-27T14:49:11#sess_8e084f09f2,user_000000,sess_8e084f09f2,2025-12-27T14:49:11,2025-12-27T15:02:56,825,converted,search_engine,16,6,Lake Deborah,MS,GW,desktop,iOS,Edge
+user_000000#2025-12-28T15:16:42#sess_c5f98953d4,user_000000,sess_c5f98953d4,2025-12-28T15:16:42,2025-12-28T16:04:03,2841,abandoned,affiliate,6,3,Lake Deborah,MS,GW,desktop,Android,Firefox
+user_000000#2025-12-29T10:57:06#sess_32f38bb52c,user_000000,sess_32f38bb52c,2025-12-29T10:57:06,2025-12-29T11:06:56,590,converted,affiliate,8,2,Lake Deborah,MS,GW,desktop,iOS,Edge
+user_000000#2026-01-01T17:16:51#sess_fee8db63d3,user_000000,sess_fee8db63d3,2026-01-01T17:16:51,2026-01-01T17:46:54,1803,browsed,search_engine,15,6,Lake Deborah,MS,GW,tablet,macOS,Chrome
+user_000000#2026-01-01T19:23:39#sess_1413897e9a,user_000000,sess_1413897e9a,2026-01-01T19:23:39,2026-01-01T19:27:27,228,abandoned,search_engine,14,4,Lake Deborah,MS,GW,desktop,Windows,Chrome
+user_000000#2026-01-02T23:06:10#sess_1634b2079a,user_000000,sess_1634b2079a,2026-01-02T23:06:10,2026-01-02T23:46:07,2397,abandoned,email,14,5,Lake Deborah,MS,GW,mobile,Android,Edge
+user_000000#2026-01-08T15:12:21#sess_9371f25d4f,user_000000,sess_9371f25d4f,2026-01-08T15:12:21,2026-01-08T15:24:37,736,abandoned,direct,11,5,Lake Deborah,MS,GW,tablet,Windows,Firefox
+user_000000#2026-01-10T02:59:13#sess_83e8efd3ce,user_000000,sess_83e8efd3ce,2026-01-10T02:59:13,2026-01-10T03:35:11,2158,abandoned,search_engine,13,6,Lake Deborah,MS,GW,mobile,iOS,Safari
+user_000000#2026-01-10T08:42:54#sess_4710419beb,user_000000,sess_4710419beb,2026-01-10T08:42:54,2026-01-10T09:36:20,3206,abandoned,email,15,5,Lake Deborah,MS,GW,mobile,macOS,Chrome
+user_000000#2026-01-10T10:18:56#sess_a0c3c5f916,user_000000,sess_a0c3c5f916,2026-01-10T10:18:56,2026-01-10T10:40:41,1305,browsed,direct,6,3,Lake Deborah,MS,GW,tablet,macOS,Firefox
+user_000000#2026-01-10T12:47:37#sess_27007643d7,user_000000,sess_27007643d7,2026-01-10T12:47:37,2026-01-10T12:51:38,241,abandoned,affiliate,11,6,Lake Deborah,MS,GW,tablet,iOS,Chrome
+user_000000#2026-01-11T23:12:28#sess_07c659fdff,user_000000,sess_07c659fdff,2026-01-11T23:12:28,2026-01-11T23:57:50,2722,browsed,email,7,2,Lake Deborah,MS,GW,tablet,Android,Edge
+user_000000#2026-01-13T01:09:48#sess_3b614d3ac5,user_000000,sess_3b614d3ac5,2026-01-13T01:09:48,2026-01-13T01:49:16,2368,converted,search_engine,9,3,Lake Deborah,MS,GW,desktop,macOS,Chrome
+user_000000#2026-01-15T09:48:25#sess_47db5c6825,user_000000,sess_47db5c6825,2026-01-15T09:48:25,2026-01-15T10:40:56,3151,converted,social,11,2,Lake Deborah,MS,GW,desktop,macOS,Firefox
+user_000000#2026-01-15T18:08:56#sess_13777b6564,user_000000,sess_13777b6564,2026-01-15T18:08:56,2026-01-15T18:11:29,153,abandoned,direct,5,2,Lake Deborah,MS,GW,mobile,Windows,Chrome
+user_000001#2025-10-21T18:25:12#sess_51792db97c,user_000001,sess_51792db97c,2025-10-21T18:25:12,2025-10-21T18:53:29,1697,browsed,social,4,1,Heatherton,MS,MW,mobile,Windows,Firefox
+user_000001#2025-10-21T22:11:13#sess_7e742e80f4,user_000001,sess_7e742e80f4,2025-10-21T22:11:13,2025-10-21T22:49:14,2281,abandoned,affiliate,10,2,Heatherton,MS,MW,mobile,Android,Edge
+user_000001#2025-10-26T00:23:05#sess_2388498fd5,user_000001,sess_2388498fd5,2025-10-26T00:23:05,2025-10-26T01:17:11,3246,browsed,email,4,1,Heatherton,MS,MW,tablet,Android,Firefox
+user_000001#2025-10-26T23:01:43#sess_0a1e32192c,user_000001,sess_0a1e32192c,2025-10-26T23:01:43,2025-10-26T23:41:30,2387,converted,search_engine,9,3,Heatherton,MS,MW,mobile,Android,Safari
+user_000001#2025-10-27T05:27:27#sess_1fde5f59ad,user_000001,sess_1fde5f59ad,2025-10-27T05:27:27,2025-10-27T05:57:58,1831,abandoned,affiliate,14,4,Heatherton,MS,MW,tablet,macOS,Chrome
+user_000001#2025-10-27T09:44:51#sess_e58c468410,user_000001,sess_e58c468410,2025-10-27T09:44:51,2025-10-27T09:49:55,304,browsed,email,6,1,Heatherton,MS,MW,desktop,Windows,Chrome
+user_000001#2025-10-29T13:50:27#sess_876bedbf7f,user_000001,sess_876bedbf7f,2025-10-29T13:50:27,2025-10-29T14:21:51,1884,converted,affiliate,15,7,Heatherton,MS,MW,tablet,Android,Chrome
+user_000001#2025-10-30T12:46:53#sess_3512ad3cb2,user_000001,sess_3512ad3cb2,2025-10-30T12:46:53,2025-10-30T12:50:35,222,abandoned,direct,14,5,Heatherton,MS,MW,tablet,Android,Safari
+user_000001#2025-10-31T12:48:09#sess_abb0029875,user_000001,sess_abb0029875,2025-10-31T12:48:09,2025-10-31T13:05:23,1034,converted,search_engine,16,4,Heatherton,MS,MW,desktop,Android,Safari
+user_000001#2025-10-31T21:08:07#sess_6c1567d59f,user_000001,sess_6c1567d59f,2025-10-31T21:08:07,2025-10-31T21:22:47,880,browsed,email,6,1,Heatherton,MS,MW,desktop,iOS,Safari
+user_000001#2025-11-01T01:55:19#sess_0e091cea50,user_000001,sess_0e091cea50,2025-11-01T01:55:19,2025-11-01T02:43:27,2888,converted,email,11,2,Heatherton,MS,MW,tablet,iOS,Chrome
+user_000001#2025-11-01T02:58:29#sess_f0f3abd7db,user_000001,sess_f0f3abd7db,2025-11-01T02:58:29,2025-11-01T03:37:32,2343,converted,email,12,2,Heatherton,MS,MW,desktop,macOS,Firefox
+user_000001#2025-11-03T00:53:12#sess_16160eab49,user_000001,sess_16160eab49,2025-11-03T00:53:12,2025-11-03T01:05:24,732,abandoned,direct,12,4,Heatherton,MS,MW,desktop,macOS,Edge
+user_000001#2025-11-03T07:36:36#sess_91bf247cb7,user_000001,sess_91bf247cb7,2025-11-03T07:36:36,2025-11-03T08:01:27,1491,converted,social,12,4,Heatherton,MS,MW,mobile,Android,Chrome
+user_000001#2025-11-05T00:04:09#sess_96782ce620,user_000001,sess_96782ce620,2025-11-05T00:04:09,2025-11-05T00:27:27,1398,converted,affiliate,16,8,Heatherton,MS,MW,tablet,iOS,Chrome
+user_000001#2025-11-05T06:54:42#sess_7ce9a02f7b,user_000001,sess_7ce9a02f7b,2025-11-05T06:54:42,2025-11-05T07:34:32,2390,converted,email,9,2,Heatherton,MS,MW,desktop,iOS,Chrome
+user_000001#2025-11-05T07:10:31#sess_cf78f93ccf,user_000001,sess_cf78f93ccf,2025-11-05T07:10:31,2025-11-05T07:55:20,2689,abandoned,email,9,4,Heatherton,MS,MW,tablet,Windows,Edge
+user_000001#2025-11-05T13:03:21#sess_bd660cd709,user_000001,sess_bd660cd709,2025-11-05T13:03:21,2025-11-05T13:45:41,2540,abandoned,email,6,1,Heatherton,MS,MW,tablet,Android,Safari
+user_000001#2025-11-06T17:34:27#sess_285ba8366d,user_000001,sess_285ba8366d,2025-11-06T17:34:27,2025-11-06T17:35:42,75,converted,social,8,2,Heatherton,MS,MW,mobile,iOS,Safari
+user_000001#2025-11-07T21:52:59#sess_8baeee4111,user_000001,sess_8baeee4111,2025-11-07T21:52:59,2025-11-07T22:40:58,2879,browsed,email,5,1,Heatherton,MS,MW,desktop,Windows,Chrome
+user_000001#2025-11-11T02:26:23#sess_5ef56b123a,user_000001,sess_5ef56b123a,2025-11-11T02:26:23,2025-11-11T03:14:09,2866,browsed,social,6,2,Heatherton,MS,MW,mobile,iOS,Safari
+user_000001#2025-11-13T23:28:54#sess_5042fccf35,user_000001,sess_5042fccf35,2025-11-13T23:28:54,2025-11-14T00:21:52,3178,browsed,email,5,1,Heatherton,MS,MW,desktop,Windows,Edge
+user_000001#2025-11-15T17:18:09#sess_98bf2c99b1,user_000001,sess_98bf2c99b1,2025-11-15T17:18:09,2025-11-15T17:55:40,2251,abandoned,direct,12,3,Heatherton,MS,MW,mobile,macOS,Chrome
+user_000001#2025-11-20T17:36:47#sess_8da5159c70,user_000001,sess_8da5159c70,2025-11-20T17:36:47,2025-11-20T18:14:15,2248,converted,email,16,5,Heatherton,MS,MW,mobile,macOS,Firefox
+user_000001#2025-11-27T07:23:21#sess_b83f6bb44d,user_000001,sess_b83f6bb44d,2025-11-27T07:23:21,2025-11-27T07:58:08,2087,abandoned,email,11,4,Heatherton,MS,MW,mobile,iOS,Firefox
+user_000001#2025-11-27T18:38:07#sess_45e95dde89,user_000001,sess_45e95dde89,2025-11-27T18:38:07,2025-11-27T18:48:38,631,browsed,search_engine,6,2,Heatherton,MS,MW,mobile,Windows,Firefox
+user_000001#2025-12-01T18:48:23#sess_5a952dea59,user_000001,sess_5a952dea59,2025-12-01T18:48:23,2025-12-01T18:59:38,675,browsed,social,13,4,Heatherton,MS,MW,mobile,macOS,Safari
+user_000001#2025-12-07T23:10:05#sess_fe1611598b,user_000001,sess_fe1611598b,2025-12-07T23:10:05,2025-12-07T23:58:17,2892,abandoned,email,13,4,Heatherton,MS,MW,desktop,iOS,Safari
+user_000001#2025-12-08T12:40:21#sess_f7a7a9c491,user_000001,sess_f7a7a9c491,2025-12-08T12:40:21,2025-12-08T13:07:51,1650,browsed,email,5,1,Heatherton,MS,MW,tablet,iOS,Chrome
+user_000001#2025-12-10T18:02:51#sess_a33ba01309,user_000001,sess_a33ba01309,2025-12-10T18:02:51,2025-12-10T18:53:22,3031,abandoned,social,4,1,Heatherton,MS,MW,desktop,macOS,Firefox
+user_000001#2025-12-12T03:28:34#sess_0f6afe08c3,user_000001,sess_0f6afe08c3,2025-12-12T03:28:34,2025-12-12T03:52:12,1418,abandoned,affiliate,8,3,Heatherton,MS,MW,mobile,Android,Safari
+user_000001#2025-12-14T09:43:47#sess_3e7e09fd95,user_000001,sess_3e7e09fd95,2025-12-14T09:43:47,2025-12-14T10:31:38,2871,converted,direct,14,3,Heatherton,MS,MW,mobile,Android,Chrome
+user_000001#2025-12-16T06:09:09#sess_f2f6a3932b,user_000001,sess_f2f6a3932b,2025-12-16T06:09:09,2025-12-16T06:58:07,2938,browsed,search_engine,5,1,Heatherton,MS,MW,mobile,macOS,Safari
+user_000001#2025-12-16T23:48:19#sess_03201551cb,user_000001,sess_03201551cb,2025-12-16T23:48:19,2025-12-16T23:58:52,633,converted,search_engine,12,5,Heatherton,MS,MW,tablet,macOS,Chrome
+user_000001#2025-12-24T12:08:25#sess_dbdfe981b3,user_000001,sess_dbdfe981b3,2025-12-24T12:08:25,2025-12-24T12:52:37,2652,abandoned,search_engine,7,3,Heatherton,MS,MW,desktop,iOS,Firefox
+user_000001#2025-12-26T06:01:56#sess_f92aa11c12,user_000001,sess_f92aa11c12,2025-12-26T06:01:56,2025-12-26T06:17:21,925,converted,search_engine,15,4,Heatherton,MS,MW,desktop,iOS,Firefox
+user_000001#2025-12-27T12:22:58#sess_52d8fbe32b,user_000001,sess_52d8fbe32b,2025-12-27T12:22:58,2025-12-27T13:21:36,3518,browsed,direct,8,2,Heatherton,MS,MW,tablet,iOS,Edge
+user_000001#2025-12-30T03:23:03#sess_2501401164,user_000001,sess_2501401164,2025-12-30T03:23:03,2025-12-30T04:22:45,3582,browsed,direct,5,2,Heatherton,MS,MW,desktop,Android,Chrome
+user_000001#2025-12-30T17:01:14#sess_99bb2ee1fd,user_000001,sess_99bb2ee1fd,2025-12-30T17:01:14,2025-12-30T17:37:18,2164,abandoned,affiliate,7,3,Heatherton,MS,MW,desktop,Android,Safari
+user_000001#2026-01-01T06:07:17#sess_4ac1d2a6c3,user_000001,sess_4ac1d2a6c3,2026-01-01T06:07:17,2026-01-01T06:53:24,2767,browsed,affiliate,5,2,Heatherton,MS,MW,mobile,iOS,Safari
+user_000001#2026-01-02T07:05:21#sess_7bee873ed2,user_000001,sess_7bee873ed2,2026-01-02T07:05:21,2026-01-02T07:25:59,1238,browsed,search_engine,6,1,Heatherton,MS,MW,mobile,Windows,Chrome
+user_000001#2026-01-04T11:01:36#sess_8303290f35,user_000001,sess_8303290f35,2026-01-04T11:01:36,2026-01-04T11:33:56,1940,abandoned,search_engine,14,7,Heatherton,MS,MW,mobile,macOS,Chrome
+user_000001#2026-01-04T18:53:58#sess_5efd42a325,user_000001,sess_5efd42a325,2026-01-04T18:53:58,2026-01-04T18:59:25,327,browsed,direct,11,3,Heatherton,MS,MW,tablet,macOS,Safari
+user_000001#2026-01-04T23:02:50#sess_96dca0e3be,user_000001,sess_96dca0e3be,2026-01-04T23:02:50,2026-01-05T00:02:13,3563,abandoned,direct,11,3,Heatherton,MS,MW,tablet,macOS,Chrome
+user_000001#2026-01-04T23:53:07#sess_5960ea62bb,user_000001,sess_5960ea62bb,2026-01-04T23:53:07,2026-01-05T00:15:25,1338,abandoned,affiliate,16,6,Heatherton,MS,MW,desktop,iOS,Safari
+user_000001#2026-01-05T04:05:16#sess_55c421d90b,user_000001,sess_55c421d90b,2026-01-05T04:05:16,2026-01-05T04:40:32,2116,abandoned,search_engine,14,3,Heatherton,MS,MW,mobile,Windows,Chrome
+user_000001#2026-01-05T04:21:49#sess_42bdc829d6,user_000001,sess_42bdc829d6,2026-01-05T04:21:49,2026-01-05T05:07:10,2721,browsed,direct,11,5,Heatherton,MS,MW,desktop,Windows,Safari
+user_000001#2026-01-06T17:19:52#sess_4dcdb73cc4,user_000001,sess_4dcdb73cc4,2026-01-06T17:19:52,2026-01-06T18:19:37,3585,browsed,social,10,2,Heatherton,MS,MW,desktop,macOS,Safari
+user_000001#2026-01-07T01:49:30#sess_8368f51050,user_000001,sess_8368f51050,2026-01-07T01:49:30,2026-01-07T02:04:32,902,abandoned,search_engine,4,1,Heatherton,MS,MW,tablet,Android,Firefox
+user_000001#2026-01-10T00:58:41#sess_29c53b09bb,user_000001,sess_29c53b09bb,2026-01-10T00:58:41,2026-01-10T01:53:54,3313,abandoned,email,11,4,Heatherton,MS,MW,desktop,Windows,Safari
+user_000001#2026-01-11T06:37:25#sess_e28a53f601,user_000001,sess_e28a53f601,2026-01-11T06:37:25,2026-01-11T07:26:46,2961,converted,email,13,6,Heatherton,MS,MW,tablet,Android,Chrome
+user_000001#2026-01-12T02:18:31#sess_dc1f8bd6d8,user_000001,sess_dc1f8bd6d8,2026-01-12T02:18:31,2026-01-12T03:16:05,3454,browsed,affiliate,12,2,Heatherton,MS,MW,tablet,macOS,Firefox
+user_000001#2026-01-15T16:11:19#sess_0b561bed57,user_000001,sess_0b561bed57,2026-01-15T16:11:19,2026-01-15T16:49:49,2310,converted,social,11,4,Heatherton,MS,MW,mobile,macOS,Chrome
+user_000001#2026-01-16T23:50:11#sess_766718aeba,user_000001,sess_766718aeba,2026-01-16T23:50:11,2026-01-17T00:15:35,1524,converted,search_engine,12,4,Heatherton,MS,MW,tablet,Windows,Chrome
+user_000001#2026-01-18T11:17:01#sess_9c644aa66a,user_000001,sess_9c644aa66a,2026-01-18T11:17:01,2026-01-18T11:25:13,492,abandoned,direct,9,1,Heatherton,MS,MW,tablet,macOS,Edge
+user_000002#2025-10-21T03:25:03#sess_b9be2a6af2,user_000002,sess_b9be2a6af2,2025-10-21T03:25:03,2025-10-21T03:29:00,237,abandoned,affiliate,8,4,Tammyton,AL,CH,mobile,iOS,Safari
+user_000002#2025-10-26T11:25:09#sess_02aaac211a,user_000002,sess_02aaac211a,2025-10-26T11:25:09,2025-10-26T12:01:27,2178,browsed,email,7,2,Tammyton,AL,CH,mobile,Windows,Firefox
+user_000002#2025-11-07T21:39:07#sess_0aae76334d,user_000002,sess_0aae76334d,2025-11-07T21:39:07,2025-11-07T21:42:26,199,converted,direct,8,3,Tammyton,AL,CH,mobile,macOS,Edge
+user_000002#2025-11-08T04:04:42#sess_f9a471d51a,user_000002,sess_f9a471d51a,2025-11-08T04:04:42,2025-11-08T04:34:20,1778,abandoned,search_engine,14,8,Tammyton,AL,CH,tablet,iOS,Safari
+user_000002#2025-11-08T22:15:07#sess_413adf21a8,user_000002,sess_413adf21a8,2025-11-08T22:15:07,2025-11-08T22:20:55,348,abandoned,email,16,6,Tammyton,AL,CH,tablet,macOS,Chrome
+user_000002#2025-11-09T19:04:57#sess_a73c2c0d5d,user_000002,sess_a73c2c0d5d,2025-11-09T19:04:57,2025-11-09T19:26:01,1264,browsed,email,14,3,Tammyton,AL,CH,mobile,macOS,Chrome
+user_000002#2025-11-09T19:13:01#sess_8ecb15c351,user_000002,sess_8ecb15c351,2025-11-09T19:13:01,2025-11-09T19:37:35,1474,browsed,direct,8,1,Tammyton,AL,CH,tablet,Android,Safari
+user_000002#2025-11-11T15:28:16#sess_3527535e81,user_000002,sess_3527535e81,2025-11-11T15:28:16,2025-11-11T15:49:19,1263,abandoned,social,8,3,Tammyton,AL,CH,desktop,Android,Edge
+user_000002#2025-11-14T01:42:35#sess_752bf235ef,user_000002,sess_752bf235ef,2025-11-14T01:42:35,2025-11-14T02:41:57,3562,abandoned,email,5,2,Tammyton,AL,CH,mobile,Android,Safari
+user_000002#2025-11-14T18:53:37#sess_8906225c89,user_000002,sess_8906225c89,2025-11-14T18:53:37,2025-11-14T19:19:22,1545,browsed,social,5,0,Tammyton,AL,CH,mobile,macOS,Chrome
+user_000002#2025-11-17T03:18:46#sess_3d2d9e618d,user_000002,sess_3d2d9e618d,2025-11-17T03:18:46,2025-11-17T03:26:48,482,browsed,email,4,2,Tammyton,AL,CH,mobile,iOS,Chrome
+user_000002#2025-11-19T03:01:35#sess_5044882e22,user_000002,sess_5044882e22,2025-11-19T03:01:35,2025-11-19T03:48:00,2785,browsed,email,5,2,Tammyton,AL,CH,mobile,macOS,Safari
+user_000002#2025-11-19T21:23:23#sess_fec45db753,user_000002,sess_fec45db753,2025-11-19T21:23:23,2025-11-19T21:39:57,994,abandoned,affiliate,10,4,Tammyton,AL,CH,desktop,Windows,Chrome
+user_000002#2025-11-21T11:25:34#sess_7fb7a380a1,user_000002,sess_7fb7a380a1,2025-11-21T11:25:34,2025-11-21T11:33:49,495,converted,social,11,2,Tammyton,AL,CH,tablet,Android,Edge
+user_000002#2025-11-25T13:47:04#sess_ebd0b66fdf,user_000002,sess_ebd0b66fdf,2025-11-25T13:47:04,2025-11-25T13:56:41,577,browsed,social,13,4,Tammyton,AL,CH,mobile,iOS,Chrome
+user_000002#2025-11-25T21:13:38#sess_341c53a56d,user_000002,sess_341c53a56d,2025-11-25T21:13:38,2025-11-25T21:29:05,927,converted,search_engine,9,3,Tammyton,AL,CH,mobile,Android,Chrome
+user_000002#2025-11-26T08:24:59#sess_9d6a00d342,user_000002,sess_9d6a00d342,2025-11-26T08:24:59,2025-11-26T09:09:28,2669,abandoned,email,15,7,Tammyton,AL,CH,tablet,Windows,Chrome
+user_000002#2025-12-02T11:43:05#sess_fbec50a782,user_000002,sess_fbec50a782,2025-12-02T11:43:05,2025-12-02T12:01:31,1106,abandoned,email,14,5,Tammyton,AL,CH,desktop,Android,Firefox
+user_000002#2025-12-07T07:38:58#sess_91836d4f58,user_000002,sess_91836d4f58,2025-12-07T07:38:58,2025-12-07T07:42:29,211,browsed,email,9,3,Tammyton,AL,CH,mobile,Android,Chrome
+user_000002#2025-12-07T18:46:12#sess_4772816ea4,user_000002,sess_4772816ea4,2025-12-07T18:46:12,2025-12-07T19:38:42,3150,abandoned,search_engine,14,7,Tammyton,AL,CH,desktop,Windows,Firefox
+user_000002#2025-12-08T21:07:30#sess_10f0122a7e,user_000002,sess_10f0122a7e,2025-12-08T21:07:30,2025-12-08T21:42:50,2120,abandoned,direct,4,2,Tammyton,AL,CH,tablet,Windows,Chrome
+user_000002#2025-12-09T09:42:54#sess_9637a8679e,user_000002,sess_9637a8679e,2025-12-09T09:42:54,2025-12-09T10:08:55,1561,abandoned,direct,5,2,Tammyton,AL,CH,desktop,Windows,Chrome
+user_000002#2025-12-12T18:27:34#sess_848791ee2b,user_000002,sess_848791ee2b,2025-12-12T18:27:34,2025-12-12T18:35:37,483,browsed,affiliate,7,2,Tammyton,AL,CH,desktop,Windows,Safari
+user_000002#2025-12-14T04:08:09#sess_d513184bc6,user_000002,sess_d513184bc6,2025-12-14T04:08:09,2025-12-14T04:39:10,1861,abandoned,social,9,5,Tammyton,AL,CH,tablet,iOS,Chrome
+user_000002#2025-12-18T19:13:53#sess_05f68d5bfa,user_000002,sess_05f68d5bfa,2025-12-18T19:13:53,2025-12-18T19:40:17,1584,abandoned,direct,7,3,Tammyton,AL,CH,mobile,macOS,Safari
+user_000002#2025-12-19T11:50:15#sess_0021fe50af,user_000002,sess_0021fe50af,2025-12-19T11:50:15,2025-12-19T12:48:33,3498,browsed,social,9,3,Tammyton,AL,CH,desktop,macOS,Safari
+user_000002#2025-12-23T03:04:23#sess_142fab9d20,user_000002,sess_142fab9d20,2025-12-23T03:04:23,2025-12-23T03:34:09,1786,converted,search_engine,15,5,Tammyton,AL,CH,desktop,macOS,Firefox
+user_000002#2025-12-25T22:06:53#sess_01b6509583,user_000002,sess_01b6509583,2025-12-25T22:06:53,2025-12-25T22:16:46,593,abandoned,email,14,8,Tammyton,AL,CH,tablet,Windows,Edge
+user_000002#2025-12-29T16:33:03#sess_a3bdbbd708,user_000002,sess_a3bdbbd708,2025-12-29T16:33:03,2025-12-29T17:05:20,1937,browsed,affiliate,7,2,Tammyton,AL,CH,mobile,Windows,Safari
+user_000002#2026-01-02T15:10:57#sess_a4246959ec,user_000002,sess_a4246959ec,2026-01-02T15:10:57,2026-01-02T16:10:30,3573,converted,email,15,5,Tammyton,AL,CH,mobile,macOS,Edge
+user_000002#2026-01-04T23:41:01#sess_7e593d0a97,user_000002,sess_7e593d0a97,2026-01-04T23:41:01,2026-01-05T00:15:48,2087,abandoned,search_engine,6,1,Tammyton,AL,CH,mobile,Android,Chrome
+user_000002#2026-01-05T00:58:37#sess_3744910563,user_000002,sess_3744910563,2026-01-05T00:58:37,2026-01-05T01:37:41,2344,converted,search_engine,11,3,Tammyton,AL,CH,mobile,Windows,Chrome
+user_000002#2026-01-05T21:08:49#sess_93ccb8886a,user_000002,sess_93ccb8886a,2026-01-05T21:08:49,2026-01-05T21:48:26,2377,abandoned,search_engine,12,6,Tammyton,AL,CH,mobile,macOS,Safari
+user_000002#2026-01-08T13:04:39#sess_18d66d1330,user_000002,sess_18d66d1330,2026-01-08T13:04:39,2026-01-08T13:13:36,537,abandoned,search_engine,9,2,Tammyton,AL,CH,mobile,Android,Safari
+user_000002#2026-01-08T16:05:49#sess_cc74df58ef,user_000002,sess_cc74df58ef,2026-01-08T16:05:49,2026-01-08T16:47:42,2513,browsed,direct,6,1,Tammyton,AL,CH,tablet,iOS,Safari
+user_000002#2026-01-10T15:35:15#sess_c7ebf129e1,user_000002,sess_c7ebf129e1,2026-01-10T15:35:15,2026-01-10T15:59:15,1440,abandoned,direct,10,5,Tammyton,AL,CH,mobile,Windows,Firefox
+user_000002#2026-01-11T12:14:36#sess_53033219c7,user_000002,sess_53033219c7,2026-01-11T12:14:36,2026-01-11T12:41:47,1631,converted,email,4,1,Tammyton,AL,CH,desktop,Windows,Safari
+user_000002#2026-01-12T19:56:18#sess_0d19eebb6b,user_000002,sess_0d19eebb6b,2026-01-12T19:56:18,2026-01-12T20:37:37,2479,abandoned,direct,8,3,Tammyton,AL,CH,mobile,Android,Safari
+user_000002#2026-01-12T22:42:31#sess_3a7d56efd7,user_000002,sess_3a7d56efd7,2026-01-12T22:42:31,2026-01-12T23:05:08,1357,abandoned,email,5,1,Tammyton,AL,CH,tablet,Windows,Chrome
+user_000002#2026-01-16T07:06:42#sess_e778e5434b,user_000002,sess_e778e5434b,2026-01-16T07:06:42,2026-01-16T07:40:18,2016,abandoned,email,10,3,Tammyton,AL,CH,mobile,Android,Chrome
+user_000002#2026-01-16T11:30:45#sess_3644d64421,user_000002,sess_3644d64421,2026-01-16T11:30:45,2026-01-16T11:42:06,681,browsed,social,5,4,Tammyton,AL,CH,tablet,macOS,Edge
+user_000002#2026-01-17T00:24:41#sess_a8e471112d,user_000002,sess_a8e471112d,2026-01-17T00:24:41,2026-01-17T00:31:11,390,abandoned,social,11,8,Tammyton,AL,CH,mobile,Windows,Chrome
+user_000002#2026-01-17T00:55:05#sess_cd0847fdd4,user_000002,sess_cd0847fdd4,2026-01-17T00:55:05,2026-01-17T01:35:06,2401,converted,direct,15,2,Tammyton,AL,CH,tablet,macOS,Chrome
+user_000002#2026-01-17T01:08:17#sess_7810c07e6a,user_000002,sess_7810c07e6a,2026-01-17T01:08:17,2026-01-17T02:03:14,3297,abandoned,search_engine,16,6,Tammyton,AL,CH,mobile,iOS,Chrome
+user_000003#2025-10-26T05:33:27#sess_1a2a477794,user_000003,sess_1a2a477794,2025-10-26T05:33:27,2025-10-26T05:37:51,264,browsed,search_engine,4,2,Greerstad,WV,TZ,desktop,macOS,Edge
+user_000003#2025-10-26T11:50:37#sess_eb17c2798f,user_000003,sess_eb17c2798f,2025-10-26T11:50:37,2025-10-26T12:12:20,1303,browsed,search_engine,10,2,Greerstad,WV,TZ,desktop,macOS,Chrome
+user_000003#2025-10-28T04:10:26#sess_626566b7b0,user_000003,sess_626566b7b0,2025-10-28T04:10:26,2025-10-28T04:56:50,2784,abandoned,affiliate,11,4,Greerstad,WV,TZ,mobile,Windows,Firefox
+user_000003#2025-10-29T09:05:12#sess_b10cacabf5,user_000003,sess_b10cacabf5,2025-10-29T09:05:12,2025-10-29T09:43:09,2277,abandoned,social,10,2,Greerstad,WV,TZ,mobile,iOS,Safari
+user_000003#2025-10-30T06:20:12#sess_eb4e8914a3,user_000003,sess_eb4e8914a3,2025-10-30T06:20:12,2025-10-30T07:19:20,3548,converted,direct,16,3,Greerstad,WV,TZ,desktop,macOS,Firefox
+user_000003#2025-10-30T17:39:58#sess_74499272d5,user_000003,sess_74499272d5,2025-10-30T17:39:58,2025-10-30T18:24:39,2681,abandoned,affiliate,6,3,Greerstad,WV,TZ,tablet,Android,Firefox
+user_000003#2025-11-03T22:18:48#sess_16fca39ba9,user_000003,sess_16fca39ba9,2025-11-03T22:18:48,2025-11-03T22:54:23,2135,abandoned,direct,10,3,Greerstad,WV,TZ,mobile,macOS,Edge
+user_000003#2025-11-05T00:57:49#sess_1e2d321f65,user_000003,sess_1e2d321f65,2025-11-05T00:57:49,2025-11-05T01:55:56,3487,abandoned,affiliate,7,4,Greerstad,WV,TZ,mobile,Windows,Chrome
+user_000003#2025-11-05T20:14:51#sess_26ad1de9fb,user_000003,sess_26ad1de9fb,2025-11-05T20:14:51,2025-11-05T21:12:15,3444,abandoned,social,10,4,Greerstad,WV,TZ,desktop,iOS,Firefox
+user_000003#2025-11-07T11:37:00#sess_7f1da32de9,user_000003,sess_7f1da32de9,2025-11-07T11:37:00,2025-11-07T11:37:50,50,abandoned,affiliate,4,3,Greerstad,WV,TZ,mobile,iOS,Chrome
+user_000003#2025-11-15T01:25:51#sess_1ea9fb972e,user_000003,sess_1ea9fb972e,2025-11-15T01:25:51,2025-11-15T01:51:53,1562,browsed,social,11,3,Greerstad,WV,TZ,mobile,Android,Chrome
+user_000003#2025-11-16T14:12:30#sess_2bdd907526,user_000003,sess_2bdd907526,2025-11-16T14:12:30,2025-11-16T14:34:10,1300,browsed,affiliate,4,2,Greerstad,WV,TZ,mobile,macOS,Chrome
+user_000003#2025-11-20T16:31:43#sess_3cdda11e67,user_000003,sess_3cdda11e67,2025-11-20T16:31:43,2025-11-20T16:49:01,1038,abandoned,search_engine,4,2,Greerstad,WV,TZ,desktop,Android,Firefox
+user_000003#2025-11-20T21:35:00#sess_fe5f654679,user_000003,sess_fe5f654679,2025-11-20T21:35:00,2025-11-20T22:04:39,1779,converted,affiliate,15,3,Greerstad,WV,TZ,desktop,Android,Safari
+user_000003#2025-11-21T07:45:44#sess_5ab0e8a411,user_000003,sess_5ab0e8a411,2025-11-21T07:45:44,2025-11-21T07:53:55,491,browsed,direct,4,0,Greerstad,WV,TZ,tablet,iOS,Safari
+user_000003#2025-11-24T06:05:23#sess_575b91ac04,user_000003,sess_575b91ac04,2025-11-24T06:05:23,2025-11-24T06:28:04,1361,browsed,affiliate,9,3,Greerstad,WV,TZ,mobile,Windows,Chrome
+user_000003#2025-11-26T03:01:15#sess_402127aac7,user_000003,sess_402127aac7,2025-11-26T03:01:15,2025-11-26T03:31:42,1827,converted,social,10,2,Greerstad,WV,TZ,tablet,Windows,Safari
+user_000003#2025-11-26T05:52:08#sess_023a05a59e,user_000003,sess_023a05a59e,2025-11-26T05:52:08,2025-11-26T06:12:32,1224,abandoned,email,15,6,Greerstad,WV,TZ,desktop,macOS,Firefox
+user_000003#2025-11-28T00:41:03#sess_0e9e0c1bf0,user_000003,sess_0e9e0c1bf0,2025-11-28T00:41:03,2025-11-28T00:50:47,584,abandoned,direct,10,5,Greerstad,WV,TZ,mobile,Android,Safari
+user_000003#2025-11-29T06:25:55#sess_a2d0138a37,user_000003,sess_a2d0138a37,2025-11-29T06:25:55,2025-11-29T06:37:55,720,abandoned,search_engine,12,4,Greerstad,WV,TZ,tablet,iOS,Safari
+user_000003#2025-11-29T15:36:23#sess_3ae36d014b,user_000003,sess_3ae36d014b,2025-11-29T15:36:23,2025-11-29T15:52:06,943,converted,email,14,4,Greerstad,WV,TZ,tablet,macOS,Firefox
+user_000003#2025-11-30T01:20:54#sess_57adf428b6,user_000003,sess_57adf428b6,2025-11-30T01:20:54,2025-11-30T01:47:54,1620,browsed,affiliate,12,3,Greerstad,WV,TZ,mobile,macOS,Edge
+user_000003#2025-12-04T12:51:39#sess_62193de117,user_000003,sess_62193de117,2025-12-04T12:51:39,2025-12-04T13:35:14,2615,browsed,affiliate,4,2,Greerstad,WV,TZ,desktop,macOS,Edge
+user_000003#2025-12-06T17:46:37#sess_1ad7c0fc24,user_000003,sess_1ad7c0fc24,2025-12-06T17:46:37,2025-12-06T18:05:58,1161,abandoned,email,16,5,Greerstad,WV,TZ,desktop,Windows,Edge
+user_000003#2025-12-07T15:56:03#sess_0820a5bf0e,user_000003,sess_0820a5bf0e,2025-12-07T15:56:03,2025-12-07T16:36:32,2429,converted,social,16,6,Greerstad,WV,TZ,tablet,iOS,Chrome
+user_000003#2025-12-07T20:30:11#sess_65d3f74b7a,user_000003,sess_65d3f74b7a,2025-12-07T20:30:11,2025-12-07T20:44:53,882,abandoned,social,14,5,Greerstad,WV,TZ,mobile,iOS,Edge
+user_000003#2025-12-10T04:06:09#sess_27b1eb31bc,user_000003,sess_27b1eb31bc,2025-12-10T04:06:09,2025-12-10T04:15:50,581,abandoned,email,5,2,Greerstad,WV,TZ,tablet,iOS,Safari
+user_000003#2025-12-10T12:46:02#sess_a2743fedba,user_000003,sess_a2743fedba,2025-12-10T12:46:02,2025-12-10T12:56:17,615,abandoned,affiliate,15,5,Greerstad,WV,TZ,desktop,iOS,Chrome
+user_000003#2025-12-11T06:50:05#sess_fe52168268,user_000003,sess_fe52168268,2025-12-11T06:50:05,2025-12-11T07:41:52,3107,abandoned,social,15,5,Greerstad,WV,TZ,mobile,Windows,Edge
+user_000003#2025-12-11T11:36:50#sess_0770c77ce5,user_000003,sess_0770c77ce5,2025-12-11T11:36:50,2025-12-11T11:41:51,301,browsed,social,4,1,Greerstad,WV,TZ,mobile,iOS,Firefox
+user_000003#2025-12-13T22:44:11#sess_56545ab3d0,user_000003,sess_56545ab3d0,2025-12-13T22:44:11,2025-12-13T22:49:56,345,browsed,affiliate,4,1,Greerstad,WV,TZ,desktop,Android,Firefox
+user_000003#2025-12-14T00:18:19#sess_6303520a0c,user_000003,sess_6303520a0c,2025-12-14T00:18:19,2025-12-14T01:00:30,2531,abandoned,search_engine,12,6,Greerstad,WV,TZ,mobile,Windows,Chrome
+user_000003#2025-12-15T00:25:28#sess_6241c3b4e0,user_000003,sess_6241c3b4e0,2025-12-15T00:25:28,2025-12-15T00:31:40,372,abandoned,search_engine,9,2,Greerstad,WV,TZ,mobile,Windows,Chrome
+user_000003#2025-12-20T19:12:06#sess_98a3d8775b,user_000003,sess_98a3d8775b,2025-12-20T19:12:06,2025-12-20T19:51:42,2376,abandoned,social,5,2,Greerstad,WV,TZ,desktop,Android,Firefox
+user_000003#2025-12-21T16:19:26#sess_c3cdb3164a,user_000003,sess_c3cdb3164a,2025-12-21T16:19:26,2025-12-21T16:59:46,2420,abandoned,direct,4,1,Greerstad,WV,TZ,tablet,macOS,Firefox
+user_000003#2025-12-23T05:26:04#sess_4b31bed413,user_000003,sess_4b31bed413,2025-12-23T05:26:04,2025-12-23T06:05:24,2360,abandoned,search_engine,7,3,Greerstad,WV,TZ,tablet,macOS,Safari
+user_000003#2025-12-23T08:50:44#sess_d43487d43f,user_000003,sess_d43487d43f,2025-12-23T08:50:44,2025-12-23T09:29:30,2326,abandoned,direct,5,2,Greerstad,WV,TZ,desktop,Windows,Firefox
+user_000003#2025-12-24T10:28:56#sess_f587b2e008,user_000003,sess_f587b2e008,2025-12-24T10:28:56,2025-12-24T10:35:31,395,browsed,affiliate,9,4,Greerstad,WV,TZ,tablet,iOS,Chrome
+user_000003#2025-12-27T00:02:34#sess_d02c44dcee,user_000003,sess_d02c44dcee,2025-12-27T00:02:34,2025-12-27T00:19:27,1013,converted,affiliate,16,6,Greerstad,WV,TZ,mobile,Windows,Safari
+user_000003#2025-12-28T12:31:44#sess_a31ce2e742,user_000003,sess_a31ce2e742,2025-12-28T12:31:44,2025-12-28T13:18:03,2779,browsed,direct,4,1,Greerstad,WV,TZ,mobile,Android,Edge
+user_000003#2025-12-29T02:38:23#sess_08e6036469,user_000003,sess_08e6036469,2025-12-29T02:38:23,2025-12-29T03:34:49,3386,abandoned,search_engine,10,4,Greerstad,WV,TZ,tablet,Android,Edge
+user_000003#2025-12-29T07:23:56#sess_376f0f4c05,user_000003,sess_376f0f4c05,2025-12-29T07:23:56,2025-12-29T08:19:38,3342,abandoned,affiliate,15,4,Greerstad,WV,TZ,tablet,Windows,Firefox
+user_000003#2025-12-30T22:15:33#sess_85643fd28d,user_000003,sess_85643fd28d,2025-12-30T22:15:33,2025-12-30T23:15:01,3568,browsed,social,5,2,Greerstad,WV,TZ,mobile,iOS,Edge
+user_000003#2025-12-31T07:16:42#sess_b1be302ca6,user_000003,sess_b1be302ca6,2025-12-31T07:16:42,2025-12-31T07:21:15,273,abandoned,email,16,5,Greerstad,WV,TZ,desktop,iOS,Firefox
+user_000003#2026-01-02T15:55:06#sess_5806e9d4dd,user_000003,sess_5806e9d4dd,2026-01-02T15:55:06,2026-01-02T15:59:04,238,abandoned,social,10,5,Greerstad,WV,TZ,mobile,Android,Edge
+user_000003#2026-01-05T21:19:07#sess_a9e83903b4,user_000003,sess_a9e83903b4,2026-01-05T21:19:07,2026-01-05T22:05:51,2804,browsed,search_engine,4,2,Greerstad,WV,TZ,desktop,iOS,Firefox
+user_000003#2026-01-09T13:56:54#sess_d3fa7deb99,user_000003,sess_d3fa7deb99,2026-01-09T13:56:54,2026-01-09T14:43:40,2806,abandoned,email,11,4,Greerstad,WV,TZ,mobile,macOS,Safari
+user_000003#2026-01-09T22:11:28#sess_0da03696c3,user_000003,sess_0da03696c3,2026-01-09T22:11:28,2026-01-09T22:28:39,1031,converted,social,15,5,Greerstad,WV,TZ,desktop,macOS,Edge
+user_000003#2026-01-09T23:28:45#sess_47f9890418,user_000003,sess_47f9890418,2026-01-09T23:28:45,2026-01-10T00:11:53,2588,browsed,email,8,2,Greerstad,WV,TZ,desktop,iOS,Edge
+user_000003#2026-01-10T09:24:21#sess_d68adc447a,user_000003,sess_d68adc447a,2026-01-10T09:24:21,2026-01-10T10:23:48,3567,abandoned,social,15,8,Greerstad,WV,TZ,mobile,macOS,Firefox
+user_000003#2026-01-10T20:39:01#sess_28ce2f3530,user_000003,sess_28ce2f3530,2026-01-10T20:39:01,2026-01-10T21:34:50,3349,browsed,search_engine,10,2,Greerstad,WV,TZ,mobile,Windows,Chrome
+user_000003#2026-01-15T08:29:29#sess_223b3e4958,user_000003,sess_223b3e4958,2026-01-15T08:29:29,2026-01-15T09:25:11,3342,converted,affiliate,11,4,Greerstad,WV,TZ,tablet,Windows,Chrome
+user_000003#2026-01-17T00:49:28#sess_7e201de375,user_000003,sess_7e201de375,2026-01-17T00:49:28,2026-01-17T01:36:21,2813,converted,affiliate,16,6,Greerstad,WV,TZ,tablet,iOS,Chrome
+user_000003#2026-01-17T07:27:43#sess_f50fa1b290,user_000003,sess_f50fa1b290,2026-01-17T07:27:43,2026-01-17T08:08:56,2473,browsed,search_engine,9,2,Greerstad,WV,TZ,tablet,iOS,Edge
+user_000003#2026-01-18T18:38:16#sess_1ed2ffb674,user_000003,sess_1ed2ffb674,2026-01-18T18:38:16,2026-01-18T18:43:46,330,abandoned,search_engine,4,2,Greerstad,WV,TZ,tablet,Android,Edge
+user_000003#2026-01-18T18:43:20#sess_44328ff4fc,user_000003,sess_44328ff4fc,2026-01-18T18:43:20,2026-01-18T19:33:02,2982,abandoned,search_engine,9,5,Greerstad,WV,TZ,desktop,iOS,Edge
+user_000004#2025-10-21T20:31:53#sess_a66f70860f,user_000004,sess_a66f70860f,2025-10-21T20:31:53,2025-10-21T21:21:59,3006,browsed,social,9,3,Port Jenny,ID,KE,tablet,iOS,Chrome
+user_000004#2025-10-22T10:17:00#sess_9ec62f00f9,user_000004,sess_9ec62f00f9,2025-10-22T10:17:00,2025-10-22T10:46:23,1763,browsed,affiliate,9,2,Port Jenny,ID,KE,desktop,macOS,Firefox
+user_000004#2025-10-23T12:56:54#sess_546bdc55cb,user_000004,sess_546bdc55cb,2025-10-23T12:56:54,2025-10-23T13:24:15,1641,abandoned,affiliate,13,3,Port Jenny,ID,KE,tablet,Android,Edge
+user_000004#2025-10-25T22:21:54#sess_09daa34db8,user_000004,sess_09daa34db8,2025-10-25T22:21:54,2025-10-25T22:28:00,366,browsed,search_engine,15,7,Port Jenny,ID,KE,tablet,Windows,Edge
+user_000004#2025-10-26T16:11:27#sess_869a76e69e,user_000004,sess_869a76e69e,2025-10-26T16:11:27,2025-10-26T17:10:21,3534,browsed,email,4,0,Port Jenny,ID,KE,tablet,iOS,Safari
+user_000004#2025-10-27T13:49:59#sess_756954fdd3,user_000004,sess_756954fdd3,2025-10-27T13:49:59,2025-10-27T14:36:30,2791,abandoned,email,14,6,Port Jenny,ID,KE,desktop,Windows,Edge
+user_000004#2025-10-28T01:34:15#sess_5864a37f1a,user_000004,sess_5864a37f1a,2025-10-28T01:34:15,2025-10-28T02:25:38,3083,abandoned,affiliate,8,4,Port Jenny,ID,KE,tablet,iOS,Firefox
+user_000004#2025-10-30T03:12:55#sess_ae78b8a2cc,user_000004,sess_ae78b8a2cc,2025-10-30T03:12:55,2025-10-30T03:13:50,55,abandoned,social,10,4,Port Jenny,ID,KE,mobile,Android,Chrome
+user_000004#2025-10-31T20:36:24#sess_46fdd7ba62,user_000004,sess_46fdd7ba62,2025-10-31T20:36:24,2025-10-31T21:27:18,3054,browsed,affiliate,9,4,Port Jenny,ID,KE,mobile,Android,Chrome
+user_000004#2025-10-31T22:08:46#sess_ba2b601cff,user_000004,sess_ba2b601cff,2025-10-31T22:08:46,2025-10-31T22:17:43,537,converted,email,12,5,Port Jenny,ID,KE,tablet,iOS,Chrome
+user_000004#2025-11-01T13:56:58#sess_3148e02403,user_000004,sess_3148e02403,2025-11-01T13:56:58,2025-11-01T14:16:31,1173,browsed,affiliate,13,5,Port Jenny,ID,KE,mobile,Windows,Chrome
+user_000004#2025-11-04T07:31:02#sess_4868985b8c,user_000004,sess_4868985b8c,2025-11-04T07:31:02,2025-11-04T07:49:29,1107,browsed,direct,7,2,Port Jenny,ID,KE,mobile,iOS,Safari
+user_000004#2025-11-05T04:35:57#sess_819775b334,user_000004,sess_819775b334,2025-11-05T04:35:57,2025-11-05T04:49:09,792,browsed,social,4,1,Port Jenny,ID,KE,mobile,iOS,Edge
+user_000004#2025-11-05T09:45:42#sess_ee88d93c42,user_000004,sess_ee88d93c42,2025-11-05T09:45:42,2025-11-05T09:51:08,326,abandoned,direct,14,7,Port Jenny,ID,KE,mobile,macOS,Safari
+user_000004#2025-11-05T19:29:24#sess_00195abf82,user_000004,sess_00195abf82,2025-11-05T19:29:24,2025-11-05T20:22:31,3187,converted,direct,11,4,Port Jenny,ID,KE,mobile,Windows,Firefox
+user_000004#2025-11-07T19:04:30#sess_8212650852,user_000004,sess_8212650852,2025-11-07T19:04:30,2025-11-07T19:05:13,43,converted,search_engine,14,5,Port Jenny,ID,KE,tablet,macOS,Firefox
+user_000004#2025-11-09T11:46:28#sess_fe7365d330,user_000004,sess_fe7365d330,2025-11-09T11:46:28,2025-11-09T12:36:08,2980,browsed,email,7,3,Port Jenny,ID,KE,tablet,macOS,Edge
+user_000004#2025-11-09T23:35:46#sess_f6b831b6e0,user_000004,sess_f6b831b6e0,2025-11-09T23:35:46,2025-11-10T00:02:41,1615,browsed,social,6,2,Port Jenny,ID,KE,tablet,Android,Safari
+user_000004#2025-11-11T20:10:07#sess_5f7dc6d161,user_000004,sess_5f7dc6d161,2025-11-11T20:10:07,2025-11-11T20:56:27,2780,browsed,affiliate,5,2,Port Jenny,ID,KE,tablet,macOS,Safari
+user_000004#2025-11-15T17:14:00#sess_753fbd461c,user_000004,sess_753fbd461c,2025-11-15T17:14:00,2025-11-15T17:53:16,2356,abandoned,affiliate,7,4,Port Jenny,ID,KE,desktop,Windows,Safari
+user_000004#2025-11-16T03:15:59#sess_71a9ad6562,user_000004,sess_71a9ad6562,2025-11-16T03:15:59,2025-11-16T03:40:59,1500,abandoned,social,9,2,Port Jenny,ID,KE,mobile,macOS,Safari
+user_000004#2025-11-19T22:22:57#sess_3f00b1666b,user_000004,sess_3f00b1666b,2025-11-19T22:22:57,2025-11-19T22:50:37,1660,abandoned,social,11,3,Port Jenny,ID,KE,desktop,Windows,Firefox
+user_000004#2025-11-22T03:18:01#sess_d4c12570e3,user_000004,sess_d4c12570e3,2025-11-22T03:18:01,2025-11-22T03:36:25,1104,abandoned,affiliate,6,1,Port Jenny,ID,KE,tablet,Android,Chrome
+user_000004#2025-11-23T10:26:36#sess_5faa9af313,user_000004,sess_5faa9af313,2025-11-23T10:26:36,2025-11-23T11:23:59,3443,abandoned,direct,10,3,Port Jenny,ID,KE,desktop,Windows,Chrome
+user_000004#2025-11-27T06:01:13#sess_a5061eb72d,user_000004,sess_a5061eb72d,2025-11-27T06:01:13,2025-11-27T06:57:14,3361,browsed,affiliate,6,3,Port Jenny,ID,KE,desktop,Windows,Firefox
+user_000004#2025-11-27T18:22:13#sess_c6f2bda394,user_000004,sess_c6f2bda394,2025-11-27T18:22:13,2025-11-27T18:27:14,301,abandoned,social,8,3,Port Jenny,ID,KE,tablet,macOS,Edge
+user_000004#2025-11-30T20:35:35#sess_7be7fd5684,user_000004,sess_7be7fd5684,2025-11-30T20:35:35,2025-11-30T21:30:39,3304,abandoned,social,9,4,Port Jenny,ID,KE,mobile,Android,Safari
+user_000004#2025-12-06T23:16:59#sess_3d86c7054b,user_000004,sess_3d86c7054b,2025-12-06T23:16:59,2025-12-06T23:34:25,1046,browsed,direct,7,1,Port Jenny,ID,KE,mobile,iOS,Safari
+user_000004#2025-12-07T18:19:58#sess_50d976f8c0,user_000004,sess_50d976f8c0,2025-12-07T18:19:58,2025-12-07T18:34:25,867,abandoned,social,6,2,Port Jenny,ID,KE,mobile,Android,Chrome
+user_000004#2025-12-08T14:53:19#sess_2a62effb14,user_000004,sess_2a62effb14,2025-12-08T14:53:19,2025-12-08T15:33:33,2414,abandoned,search_engine,9,5,Port Jenny,ID,KE,tablet,macOS,Edge
+user_000004#2025-12-08T20:28:11#sess_b125c38310,user_000004,sess_b125c38310,2025-12-08T20:28:11,2025-12-08T20:54:03,1552,browsed,affiliate,10,1,Port Jenny,ID,KE,tablet,macOS,Firefox
+user_000004#2025-12-10T19:56:44#sess_27073bc214,user_000004,sess_27073bc214,2025-12-10T19:56:44,2025-12-10T20:04:55,491,abandoned,social,5,1,Port Jenny,ID,KE,mobile,Windows,Chrome
+user_000004#2025-12-11T16:38:26#sess_19a8e2c46e,user_000004,sess_19a8e2c46e,2025-12-11T16:38:26,2025-12-11T17:32:48,3262,abandoned,social,15,6,Port Jenny,ID,KE,tablet,Android,Edge
+user_000004#2025-12-16T13:04:13#sess_3cf74ac276,user_000004,sess_3cf74ac276,2025-12-16T13:04:13,2025-12-16T13:22:24,1091,abandoned,email,11,5,Port Jenny,ID,KE,desktop,iOS,Firefox
+user_000004#2025-12-19T04:47:47#sess_c8ceefcbfa,user_000004,sess_c8ceefcbfa,2025-12-19T04:47:47,2025-12-19T05:42:02,3255,abandoned,social,15,6,Port Jenny,ID,KE,mobile,Windows,Edge
+user_000004#2025-12-22T12:07:09#sess_5ca9e46738,user_000004,sess_5ca9e46738,2025-12-22T12:07:09,2025-12-22T12:38:50,1901,browsed,search_engine,11,6,Port Jenny,ID,KE,mobile,Windows,Firefox
+user_000004#2025-12-23T09:31:00#sess_7ccde316c8,user_000004,sess_7ccde316c8,2025-12-23T09:31:00,2025-12-23T09:42:54,714,converted,direct,9,3,Port Jenny,ID,KE,desktop,macOS,Safari
+user_000004#2025-12-31T19:46:25#sess_5049052d3f,user_000004,sess_5049052d3f,2025-12-31T19:46:25,2025-12-31T20:32:29,2764,abandoned,social,10,5,Port Jenny,ID,KE,tablet,Windows,Chrome
+user_000004#2026-01-07T10:56:34#sess_397dfd7e19,user_000004,sess_397dfd7e19,2026-01-07T10:56:34,2026-01-07T11:19:44,1390,browsed,email,7,2,Port Jenny,ID,KE,tablet,Windows,Chrome
+user_000004#2026-01-11T06:27:16#sess_66e511deef,user_000004,sess_66e511deef,2026-01-11T06:27:16,2026-01-11T07:13:48,2792,abandoned,social,5,2,Port Jenny,ID,KE,mobile,Windows,Chrome
+user_000004#2026-01-14T19:15:00#sess_3ab1baa966,user_000004,sess_3ab1baa966,2026-01-14T19:15:00,2026-01-14T19:15:32,32,converted,email,11,4,Port Jenny,ID,KE,desktop,iOS,Safari
+user_000004#2026-01-15T04:31:58#sess_171b7d0ae6,user_000004,sess_171b7d0ae6,2026-01-15T04:31:58,2026-01-15T04:55:27,1409,abandoned,direct,5,1,Port Jenny,ID,KE,tablet,Windows,Safari
+user_000004#2026-01-17T10:07:44#sess_42ca86f3ed,user_000004,sess_42ca86f3ed,2026-01-17T10:07:44,2026-01-17T10:34:47,1623,converted,search_engine,15,5,Port Jenny,ID,KE,desktop,iOS,Edge
+user_000004#2026-01-18T11:35:11#sess_0a1942b6dc,user_000004,sess_0a1942b6dc,2026-01-18T11:35:11,2026-01-18T12:35:03,3592,abandoned,affiliate,7,2,Port Jenny,ID,KE,mobile,iOS,Safari
+user_000005#2025-10-23T11:28:00#sess_4574b81aa1,user_000005,sess_4574b81aa1,2025-10-23T11:28:00,2025-10-23T11:48:04,1204,browsed,search_engine,11,3,East Sydneyhaven,DE,MT,mobile,iOS,Edge
+user_000005#2025-10-25T06:11:31#sess_1cd61e6ff1,user_000005,sess_1cd61e6ff1,2025-10-25T06:11:31,2025-10-25T06:48:28,2217,abandoned,direct,15,6,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-10-25T11:35:41#sess_45b9a98366,user_000005,sess_45b9a98366,2025-10-25T11:35:41,2025-10-25T11:55:57,1216,abandoned,affiliate,13,5,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-10-25T19:46:20#sess_c378c666ee,user_000005,sess_c378c666ee,2025-10-25T19:46:20,2025-10-25T19:51:51,331,abandoned,search_engine,4,2,East Sydneyhaven,DE,MT,tablet,Windows,Firefox
+user_000005#2025-10-25T20:07:36#sess_cac0b2d668,user_000005,sess_cac0b2d668,2025-10-25T20:07:36,2025-10-25T20:42:36,2100,browsed,search_engine,14,4,East Sydneyhaven,DE,MT,tablet,macOS,Firefox
+user_000005#2025-10-31T23:42:14#sess_39c489d070,user_000005,sess_39c489d070,2025-10-31T23:42:14,2025-11-01T00:33:31,3077,converted,search_engine,10,4,East Sydneyhaven,DE,MT,mobile,Windows,Chrome
+user_000005#2025-11-01T10:51:18#sess_9931bb3865,user_000005,sess_9931bb3865,2025-11-01T10:51:18,2025-11-01T11:19:06,1668,abandoned,affiliate,10,4,East Sydneyhaven,DE,MT,mobile,Android,Edge
+user_000005#2025-11-01T22:25:29#sess_8b4942b9bb,user_000005,sess_8b4942b9bb,2025-11-01T22:25:29,2025-11-01T22:37:23,714,converted,direct,14,7,East Sydneyhaven,DE,MT,desktop,iOS,Edge
+user_000005#2025-11-03T21:53:07#sess_6a5f64c828,user_000005,sess_6a5f64c828,2025-11-03T21:53:07,2025-11-03T22:40:41,2854,abandoned,search_engine,13,5,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-11-04T03:12:31#sess_266dd60c01,user_000005,sess_266dd60c01,2025-11-04T03:12:31,2025-11-04T03:46:26,2035,converted,direct,12,3,East Sydneyhaven,DE,MT,desktop,macOS,Edge
+user_000005#2025-11-04T08:25:39#sess_8be900e7b8,user_000005,sess_8be900e7b8,2025-11-04T08:25:39,2025-11-04T09:19:47,3248,browsed,affiliate,4,1,East Sydneyhaven,DE,MT,tablet,iOS,Firefox
+user_000005#2025-11-06T15:55:10#sess_260a5e3d65,user_000005,sess_260a5e3d65,2025-11-06T15:55:10,2025-11-06T16:22:58,1668,abandoned,email,10,2,East Sydneyhaven,DE,MT,tablet,Windows,Chrome
+user_000005#2025-11-08T20:34:20#sess_19c7a2f35b,user_000005,sess_19c7a2f35b,2025-11-08T20:34:20,2025-11-08T21:24:09,2989,browsed,email,5,3,East Sydneyhaven,DE,MT,mobile,Android,Firefox
+user_000005#2025-11-08T23:05:20#sess_580b43c312,user_000005,sess_580b43c312,2025-11-08T23:05:20,2025-11-08T23:40:46,2126,abandoned,search_engine,10,6,East Sydneyhaven,DE,MT,desktop,macOS,Edge
+user_000005#2025-11-11T00:36:43#sess_8e2cb54dc0,user_000005,sess_8e2cb54dc0,2025-11-11T00:36:43,2025-11-11T00:55:00,1097,browsed,affiliate,4,1,East Sydneyhaven,DE,MT,desktop,iOS,Chrome
+user_000005#2025-11-13T01:01:57#sess_442b977d5b,user_000005,sess_442b977d5b,2025-11-13T01:01:57,2025-11-13T01:31:56,1799,abandoned,social,6,4,East Sydneyhaven,DE,MT,tablet,iOS,Safari
+user_000005#2025-11-14T11:59:46#sess_3e9eb545e1,user_000005,sess_3e9eb545e1,2025-11-14T11:59:46,2025-11-14T12:49:01,2955,abandoned,affiliate,16,6,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-11-15T05:33:02#sess_d4e9b68efa,user_000005,sess_d4e9b68efa,2025-11-15T05:33:02,2025-11-15T05:43:20,618,abandoned,social,16,5,East Sydneyhaven,DE,MT,desktop,Android,Firefox
+user_000005#2025-11-19T10:57:32#sess_a3aa5dd65d,user_000005,sess_a3aa5dd65d,2025-11-19T10:57:32,2025-11-19T11:42:26,2694,abandoned,email,6,2,East Sydneyhaven,DE,MT,tablet,Windows,Safari
+user_000005#2025-11-20T03:10:48#sess_b6b581c58f,user_000005,sess_b6b581c58f,2025-11-20T03:10:48,2025-11-20T03:42:03,1875,abandoned,affiliate,4,2,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-11-23T17:52:13#sess_a9e33cc1ed,user_000005,sess_a9e33cc1ed,2025-11-23T17:52:13,2025-11-23T18:07:36,923,abandoned,social,11,7,East Sydneyhaven,DE,MT,tablet,Android,Chrome
+user_000005#2025-11-25T20:37:05#sess_4a7861ed85,user_000005,sess_4a7861ed85,2025-11-25T20:37:05,2025-11-25T21:22:05,2700,browsed,direct,12,4,East Sydneyhaven,DE,MT,tablet,Windows,Safari
+user_000005#2025-11-25T22:26:54#sess_aed1df19a5,user_000005,sess_aed1df19a5,2025-11-25T22:26:54,2025-11-25T22:41:28,874,abandoned,search_engine,4,2,East Sydneyhaven,DE,MT,desktop,Windows,Firefox
+user_000005#2025-11-26T02:14:25#sess_436e8a9d68,user_000005,sess_436e8a9d68,2025-11-26T02:14:25,2025-11-26T03:11:24,3419,converted,email,14,3,East Sydneyhaven,DE,MT,desktop,macOS,Firefox
+user_000005#2025-12-01T17:41:50#sess_e231a6798a,user_000005,sess_e231a6798a,2025-12-01T17:41:50,2025-12-01T18:39:10,3440,abandoned,affiliate,4,1,East Sydneyhaven,DE,MT,mobile,macOS,Safari
+user_000005#2025-12-04T21:08:53#sess_a388f02cb2,user_000005,sess_a388f02cb2,2025-12-04T21:08:53,2025-12-04T22:08:52,3599,converted,search_engine,10,3,East Sydneyhaven,DE,MT,mobile,Android,Chrome
+user_000005#2025-12-06T03:00:20#sess_67701867a6,user_000005,sess_67701867a6,2025-12-06T03:00:20,2025-12-06T03:56:42,3382,converted,social,10,2,East Sydneyhaven,DE,MT,tablet,iOS,Chrome
+user_000005#2025-12-06T11:13:58#sess_7211e5fc60,user_000005,sess_7211e5fc60,2025-12-06T11:13:58,2025-12-06T11:45:24,1886,browsed,search_engine,7,1,East Sydneyhaven,DE,MT,tablet,Android,Firefox
+user_000005#2025-12-06T13:03:43#sess_1b91a5928d,user_000005,sess_1b91a5928d,2025-12-06T13:03:43,2025-12-06T13:46:39,2576,browsed,affiliate,14,3,East Sydneyhaven,DE,MT,mobile,iOS,Edge
+user_000005#2025-12-10T10:08:40#sess_0f9fdd6dfa,user_000005,sess_0f9fdd6dfa,2025-12-10T10:08:40,2025-12-10T10:11:41,181,browsed,direct,5,1,East Sydneyhaven,DE,MT,desktop,macOS,Chrome
+user_000005#2025-12-12T23:47:22#sess_99aad7bae6,user_000005,sess_99aad7bae6,2025-12-12T23:47:22,2025-12-13T00:47:18,3596,abandoned,direct,13,3,East Sydneyhaven,DE,MT,tablet,macOS,Safari
+user_000005#2025-12-15T07:40:27#sess_33f4e7f7e3,user_000005,sess_33f4e7f7e3,2025-12-15T07:40:27,2025-12-15T08:38:55,3508,abandoned,direct,9,1,East Sydneyhaven,DE,MT,mobile,Android,Firefox
+user_000005#2025-12-19T20:31:11#sess_06221e4845,user_000005,sess_06221e4845,2025-12-19T20:31:11,2025-12-19T20:47:36,985,abandoned,direct,10,1,East Sydneyhaven,DE,MT,desktop,iOS,Firefox
+user_000005#2025-12-21T19:59:26#sess_95d9cb9dcf,user_000005,sess_95d9cb9dcf,2025-12-21T19:59:26,2025-12-21T20:23:11,1425,abandoned,direct,14,6,East Sydneyhaven,DE,MT,tablet,Android,Chrome
+user_000005#2025-12-22T09:33:53#sess_4878f6be5c,user_000005,sess_4878f6be5c,2025-12-22T09:33:53,2025-12-22T09:58:11,1458,browsed,search_engine,7,1,East Sydneyhaven,DE,MT,desktop,Windows,Safari
+user_000005#2025-12-25T21:29:33#sess_b2b0a987de,user_000005,sess_b2b0a987de,2025-12-25T21:29:33,2025-12-25T21:42:55,802,abandoned,direct,16,8,East Sydneyhaven,DE,MT,tablet,iOS,Safari
+user_000005#2025-12-28T23:53:17#sess_7e7d8ad8d3,user_000005,sess_7e7d8ad8d3,2025-12-28T23:53:17,2025-12-29T00:30:51,2254,browsed,direct,10,2,East Sydneyhaven,DE,MT,tablet,iOS,Safari
+user_000005#2025-12-29T06:36:36#sess_7a60f9aad8,user_000005,sess_7a60f9aad8,2025-12-29T06:36:36,2025-12-29T07:27:42,3066,browsed,social,16,3,East Sydneyhaven,DE,MT,tablet,macOS,Firefox
+user_000005#2025-12-29T10:31:17#sess_7a4a16b587,user_000005,sess_7a4a16b587,2025-12-29T10:31:17,2025-12-29T10:50:57,1180,abandoned,direct,16,6,East Sydneyhaven,DE,MT,tablet,iOS,Firefox
+user_000005#2025-12-30T12:23:01#sess_7292d519a7,user_000005,sess_7292d519a7,2025-12-30T12:23:01,2025-12-30T12:28:57,356,abandoned,direct,15,6,East Sydneyhaven,DE,MT,desktop,iOS,Edge
+user_000005#2026-01-01T19:29:30#sess_59dc819de9,user_000005,sess_59dc819de9,2026-01-01T19:29:30,2026-01-01T19:30:18,48,converted,email,7,2,East Sydneyhaven,DE,MT,desktop,Windows,Edge
+user_000005#2026-01-02T17:07:19#sess_cbf8b509eb,user_000005,sess_cbf8b509eb,2026-01-02T17:07:19,2026-01-02T17:19:49,750,converted,affiliate,10,2,East Sydneyhaven,DE,MT,tablet,Android,Firefox
+user_000005#2026-01-05T03:03:06#sess_66fb0cc99c,user_000005,sess_66fb0cc99c,2026-01-05T03:03:06,2026-01-05T03:09:15,369,browsed,search_engine,7,3,East Sydneyhaven,DE,MT,desktop,Android,Safari
+user_000005#2026-01-06T18:13:31#sess_1aac1c1c1b,user_000005,sess_1aac1c1c1b,2026-01-06T18:13:31,2026-01-06T19:02:44,2953,browsed,direct,8,4,East Sydneyhaven,DE,MT,desktop,iOS,Chrome
+user_000005#2026-01-08T16:48:18#sess_77dca9fc2f,user_000005,sess_77dca9fc2f,2026-01-08T16:48:18,2026-01-08T17:04:48,990,browsed,search_engine,6,1,East Sydneyhaven,DE,MT,mobile,Windows,Edge
+user_000005#2026-01-10T15:02:06#sess_d8c8adf251,user_000005,sess_d8c8adf251,2026-01-10T15:02:06,2026-01-10T15:12:20,614,browsed,search_engine,16,4,East Sydneyhaven,DE,MT,desktop,Windows,Chrome
+user_000005#2026-01-12T02:14:43#sess_fea590e323,user_000005,sess_fea590e323,2026-01-12T02:14:43,2026-01-12T02:26:10,687,abandoned,search_engine,11,3,East Sydneyhaven,DE,MT,tablet,iOS,Safari
+user_000005#2026-01-12T05:19:45#sess_ee89dd59a0,user_000005,sess_ee89dd59a0,2026-01-12T05:19:45,2026-01-12T05:37:09,1044,browsed,search_engine,8,2,East Sydneyhaven,DE,MT,mobile,macOS,Chrome
+user_000005#2026-01-14T21:24:02#sess_026c064c25,user_000005,sess_026c064c25,2026-01-14T21:24:02,2026-01-14T22:13:07,2945,abandoned,social,9,3,East Sydneyhaven,DE,MT,desktop,Windows,Edge
+user_000006#2025-10-21T15:47:33#sess_6930aa6eca,user_000006,sess_6930aa6eca,2025-10-21T15:47:33,2025-10-21T16:26:35,2342,converted,affiliate,13,2,Angelaberg,GA,TV,tablet,Windows,Edge
+user_000006#2025-10-21T21:09:50#sess_c5cb7c9447,user_000006,sess_c5cb7c9447,2025-10-21T21:09:50,2025-10-21T22:01:37,3107,converted,social,16,7,Angelaberg,GA,TV,tablet,macOS,Firefox
+user_000006#2025-10-21T23:21:48#sess_843efff221,user_000006,sess_843efff221,2025-10-21T23:21:48,2025-10-21T23:38:55,1027,browsed,social,9,2,Angelaberg,GA,TV,tablet,Windows,Chrome
+user_000006#2025-10-29T18:01:49#sess_07cd124990,user_000006,sess_07cd124990,2025-10-29T18:01:49,2025-10-29T18:37:52,2163,abandoned,direct,5,1,Angelaberg,GA,TV,mobile,iOS,Safari
+user_000006#2025-10-30T06:10:50#sess_51c06ddc66,user_000006,sess_51c06ddc66,2025-10-30T06:10:50,2025-10-30T06:34:47,1437,browsed,email,7,1,Angelaberg,GA,TV,mobile,iOS,Edge
+user_000006#2025-10-30T11:43:49#sess_4f8c060132,user_000006,sess_4f8c060132,2025-10-30T11:43:49,2025-10-30T12:26:42,2573,browsed,social,5,2,Angelaberg,GA,TV,desktop,iOS,Safari
+user_000006#2025-10-30T20:32:22#sess_87f7554682,user_000006,sess_87f7554682,2025-10-30T20:32:22,2025-10-30T21:28:56,3394,abandoned,direct,11,3,Angelaberg,GA,TV,desktop,iOS,Edge
+user_000006#2025-11-03T18:25:33#sess_9131f821d5,user_000006,sess_9131f821d5,2025-11-03T18:25:33,2025-11-03T18:27:07,94,browsed,social,4,1,Angelaberg,GA,TV,mobile,Windows,Edge
+user_000006#2025-11-04T13:43:19#sess_c5b416f541,user_000006,sess_c5b416f541,2025-11-04T13:43:19,2025-11-04T13:48:01,282,browsed,social,7,2,Angelaberg,GA,TV,tablet,Android,Firefox
+user_000006#2025-11-04T23:43:28#sess_bd659c9eb0,user_000006,sess_bd659c9eb0,2025-11-04T23:43:28,2025-11-04T23:59:09,941,converted,search_engine,14,6,Angelaberg,GA,TV,mobile,Windows,Safari
+user_000006#2025-11-07T13:14:22#sess_0b541b16e8,user_000006,sess_0b541b16e8,2025-11-07T13:14:22,2025-11-07T13:43:42,1760,converted,direct,16,8,Angelaberg,GA,TV,mobile,macOS,Edge
+user_000006#2025-11-08T16:20:52#sess_8aa22ba8fd,user_000006,sess_8aa22ba8fd,2025-11-08T16:20:52,2025-11-08T16:43:36,1364,converted,search_engine,13,3,Angelaberg,GA,TV,desktop,Android,Firefox
+user_000006#2025-11-10T08:58:37#sess_51bcc540a1,user_000006,sess_51bcc540a1,2025-11-10T08:58:37,2025-11-10T09:36:49,2292,abandoned,email,15,4,Angelaberg,GA,TV,tablet,Android,Firefox
+user_000006#2025-11-11T18:31:40#sess_1027ab4e9d,user_000006,sess_1027ab4e9d,2025-11-11T18:31:40,2025-11-11T18:42:27,647,abandoned,social,9,3,Angelaberg,GA,TV,mobile,Android,Firefox
+user_000006#2025-11-11T23:22:25#sess_05eee74a97,user_000006,sess_05eee74a97,2025-11-11T23:22:25,2025-11-11T23:42:48,1223,abandoned,email,15,7,Angelaberg,GA,TV,mobile,iOS,Safari
+user_000006#2025-11-13T22:19:13#sess_e3b86801bd,user_000006,sess_e3b86801bd,2025-11-13T22:19:13,2025-11-13T22:39:03,1190,abandoned,email,14,6,Angelaberg,GA,TV,mobile,Windows,Firefox
+user_000006#2025-11-15T19:31:23#sess_534f1919fc,user_000006,sess_534f1919fc,2025-11-15T19:31:23,2025-11-15T20:26:59,3336,browsed,social,9,3,Angelaberg,GA,TV,mobile,iOS,Safari
+user_000006#2025-11-19T09:04:46#sess_a806c8d726,user_000006,sess_a806c8d726,2025-11-19T09:04:46,2025-11-19T09:13:33,527,abandoned,email,15,7,Angelaberg,GA,TV,tablet,Android,Chrome
+user_000006#2025-11-19T15:02:50#sess_f3fdd0fdb3,user_000006,sess_f3fdd0fdb3,2025-11-19T15:02:50,2025-11-19T15:25:58,1388,browsed,email,4,0,Angelaberg,GA,TV,desktop,macOS,Firefox
+user_000006#2025-11-23T08:43:20#sess_b7abedfb14,user_000006,sess_b7abedfb14,2025-11-23T08:43:20,2025-11-23T09:06:06,1366,abandoned,direct,8,4,Angelaberg,GA,TV,tablet,iOS,Firefox
+user_000006#2025-11-24T14:09:54#sess_b7af82d00e,user_000006,sess_b7af82d00e,2025-11-24T14:09:54,2025-11-24T14:32:23,1349,converted,affiliate,8,3,Angelaberg,GA,TV,tablet,Windows,Chrome
+user_000006#2025-11-26T16:47:48#sess_0bed59f250,user_000006,sess_0bed59f250,2025-11-26T16:47:48,2025-11-26T17:37:09,2961,browsed,email,6,1,Angelaberg,GA,TV,tablet,Android,Firefox
+user_000006#2025-12-04T03:00:51#sess_40ecc0066c,user_000006,sess_40ecc0066c,2025-12-04T03:00:51,2025-12-04T03:40:42,2391,browsed,direct,13,3,Angelaberg,GA,TV,mobile,Windows,Safari
+user_000006#2025-12-04T06:16:25#sess_cfb8378e74,user_000006,sess_cfb8378e74,2025-12-04T06:16:25,2025-12-04T06:45:38,1753,abandoned,search_engine,6,3,Angelaberg,GA,TV,desktop,Windows,Safari
+user_000006#2025-12-05T01:36:42#sess_e00b93f2b9,user_000006,sess_e00b93f2b9,2025-12-05T01:36:42,2025-12-05T01:57:43,1261,abandoned,social,6,2,Angelaberg,GA,TV,tablet,Windows,Chrome
+user_000006#2025-12-06T00:54:46#sess_e744ab8bf4,user_000006,sess_e744ab8bf4,2025-12-06T00:54:46,2025-12-06T01:12:17,1051,abandoned,email,8,4,Angelaberg,GA,TV,mobile,iOS,Safari
+user_000006#2025-12-08T04:17:43#sess_6652bbcfd8,user_000006,sess_6652bbcfd8,2025-12-08T04:17:43,2025-12-08T04:56:46,2343,abandoned,social,11,7,Angelaberg,GA,TV,mobile,iOS,Safari
+user_000006#2025-12-08T11:29:38#sess_e9800aa922,user_000006,sess_e9800aa922,2025-12-08T11:29:38,2025-12-08T12:28:37,3539,browsed,affiliate,6,1,Angelaberg,GA,TV,tablet,iOS,Edge
+user_000006#2025-12-13T03:45:30#sess_6043a40395,user_000006,sess_6043a40395,2025-12-13T03:45:30,2025-12-13T03:48:34,184,abandoned,affiliate,4,2,Angelaberg,GA,TV,desktop,Android,Firefox
+user_000006#2025-12-17T15:29:55#sess_ca88b7f143,user_000006,sess_ca88b7f143,2025-12-17T15:29:55,2025-12-17T15:38:57,542,abandoned,email,8,4,Angelaberg,GA,TV,mobile,Windows,Edge
+user_000006#2025-12-19T08:33:04#sess_3d4a9f430c,user_000006,sess_3d4a9f430c,2025-12-19T08:33:04,2025-12-19T08:48:59,955,abandoned,social,8,5,Angelaberg,GA,TV,tablet,Android,Chrome
+user_000006#2025-12-19T16:47:55#sess_8ff5e5d024,user_000006,sess_8ff5e5d024,2025-12-19T16:47:55,2025-12-19T17:20:28,1953,abandoned,search_engine,6,4,Angelaberg,GA,TV,desktop,Android,Chrome
+user_000006#2025-12-19T20:53:52#sess_4df54d766c,user_000006,sess_4df54d766c,2025-12-19T20:53:52,2025-12-19T20:58:00,248,converted,affiliate,8,1,Angelaberg,GA,TV,desktop,macOS,Firefox
+user_000006#2025-12-19T23:03:48#sess_81ded3ab26,user_000006,sess_81ded3ab26,2025-12-19T23:03:48,2025-12-19T23:51:25,2857,abandoned,direct,11,5,Angelaberg,GA,TV,mobile,iOS,Edge
+user_000006#2025-12-22T05:10:36#sess_5b406ef249,user_000006,sess_5b406ef249,2025-12-22T05:10:36,2025-12-22T05:54:29,2633,converted,email,16,4,Angelaberg,GA,TV,desktop,Android,Chrome
+user_000006#2025-12-22T05:27:59#sess_e352a8af44,user_000006,sess_e352a8af44,2025-12-22T05:27:59,2025-12-22T05:53:28,1529,browsed,social,4,1,Angelaberg,GA,TV,desktop,Windows,Chrome
+user_000006#2025-12-22T17:20:35#sess_748d46c345,user_000006,sess_748d46c345,2025-12-22T17:20:35,2025-12-22T17:50:39,1804,browsed,direct,8,2,Angelaberg,GA,TV,mobile,macOS,Safari
+user_000006#2025-12-26T06:21:45#sess_cffdca982d,user_000006,sess_cffdca982d,2025-12-26T06:21:45,2025-12-26T06:29:56,491,abandoned,search_engine,15,5,Angelaberg,GA,TV,tablet,Android,Chrome
+user_000006#2025-12-26T09:14:32#sess_065c1f18c4,user_000006,sess_065c1f18c4,2025-12-26T09:14:32,2025-12-26T10:05:23,3051,browsed,search_engine,6,1,Angelaberg,GA,TV,desktop,iOS,Firefox
+user_000006#2025-12-27T21:53:21#sess_a76af238f2,user_000006,sess_a76af238f2,2025-12-27T21:53:21,2025-12-27T22:44:42,3081,converted,social,11,2,Angelaberg,GA,TV,tablet,iOS,Edge
+user_000006#2025-12-29T15:11:01#sess_254eab5774,user_000006,sess_254eab5774,2025-12-29T15:11:01,2025-12-29T15:33:16,1335,browsed,direct,4,1,Angelaberg,GA,TV,desktop,macOS,Chrome
+user_000006#2026-01-02T06:47:18#sess_f91b2f8c2f,user_000006,sess_f91b2f8c2f,2026-01-02T06:47:18,2026-01-02T07:00:26,788,abandoned,affiliate,9,3,Angelaberg,GA,TV,desktop,Android,Chrome
+user_000006#2026-01-04T02:00:54#sess_44333c26f0,user_000006,sess_44333c26f0,2026-01-04T02:00:54,2026-01-04T02:22:52,1318,converted,search_engine,14,3,Angelaberg,GA,TV,mobile,Windows,Safari
+user_000006#2026-01-04T21:29:10#sess_dcea7833c2,user_000006,sess_dcea7833c2,2026-01-04T21:29:10,2026-01-04T21:49:28,1218,converted,social,15,3,Angelaberg,GA,TV,mobile,macOS,Safari
+user_000006#2026-01-05T17:46:29#sess_515a82a97e,user_000006,sess_515a82a97e,2026-01-05T17:46:29,2026-01-05T18:31:54,2725,browsed,email,4,1,Angelaberg,GA,TV,tablet,Windows,Edge
+user_000006#2026-01-06T21:21:24#sess_fddd4ed197,user_000006,sess_fddd4ed197,2026-01-06T21:21:24,2026-01-06T21:32:21,657,abandoned,affiliate,14,6,Angelaberg,GA,TV,tablet,Android,Chrome
+user_000006#2026-01-07T06:29:44#sess_f106ef68d0,user_000006,sess_f106ef68d0,2026-01-07T06:29:44,2026-01-07T07:16:43,2819,browsed,search_engine,7,1,Angelaberg,GA,TV,tablet,Android,Chrome
+user_000006#2026-01-08T06:54:10#sess_f8b71e2059,user_000006,sess_f8b71e2059,2026-01-08T06:54:10,2026-01-08T07:33:53,2383,browsed,social,15,5,Angelaberg,GA,TV,tablet,Windows,Chrome
+user_000006#2026-01-11T01:47:29#sess_abe5b6493b,user_000006,sess_abe5b6493b,2026-01-11T01:47:29,2026-01-11T02:28:21,2452,abandoned,social,6,1,Angelaberg,GA,TV,mobile,Windows,Chrome
+user_000006#2026-01-13T07:32:12#sess_a6fa696044,user_000006,sess_a6fa696044,2026-01-13T07:32:12,2026-01-13T07:53:21,1269,converted,search_engine,16,6,Angelaberg,GA,TV,mobile,Android,Edge
+user_000006#2026-01-14T09:31:21#sess_4d88f5aa7d,user_000006,sess_4d88f5aa7d,2026-01-14T09:31:21,2026-01-14T10:31:16,3595,converted,email,16,7,Angelaberg,GA,TV,desktop,iOS,Safari
+user_000006#2026-01-14T21:21:41#sess_710aa63622,user_000006,sess_710aa63622,2026-01-14T21:21:41,2026-01-14T22:10:01,2900,browsed,direct,4,1,Angelaberg,GA,TV,mobile,iOS,Edge
+user_000006#2026-01-16T03:22:23#sess_ee99a8a67b,user_000006,sess_ee99a8a67b,2026-01-16T03:22:23,2026-01-16T03:38:10,947,abandoned,direct,16,5,Angelaberg,GA,TV,mobile,Android,Safari
+user_000006#2026-01-17T06:29:10#sess_dabfd8cb68,user_000006,sess_dabfd8cb68,2026-01-17T06:29:10,2026-01-17T06:46:08,1018,converted,social,12,4,Angelaberg,GA,TV,tablet,Windows,Edge
+user_000007#2025-10-23T11:59:24#sess_4b98843fc5,user_000007,sess_4b98843fc5,2025-10-23T11:59:24,2025-10-23T12:56:25,3421,abandoned,affiliate,8,4,West Stevenberg,AZ,DE,desktop,macOS,Firefox
+user_000007#2025-10-24T13:33:33#sess_98f9a2343a,user_000007,sess_98f9a2343a,2025-10-24T13:33:33,2025-10-24T14:13:29,2396,abandoned,email,13,7,West Stevenberg,AZ,DE,mobile,Windows,Firefox
+user_000007#2025-10-24T14:49:38#sess_5421820f99,user_000007,sess_5421820f99,2025-10-24T14:49:38,2025-10-24T14:56:31,413,abandoned,social,4,2,West Stevenberg,AZ,DE,desktop,macOS,Firefox
+user_000007#2025-10-27T12:28:24#sess_21d7b35a6f,user_000007,sess_21d7b35a6f,2025-10-27T12:28:24,2025-10-27T13:23:30,3306,converted,direct,12,2,West Stevenberg,AZ,DE,mobile,macOS,Edge
+user_000007#2025-10-29T16:55:01#sess_ab2d6a9062,user_000007,sess_ab2d6a9062,2025-10-29T16:55:01,2025-10-29T16:59:26,265,browsed,search_engine,6,1,West Stevenberg,AZ,DE,tablet,macOS,Chrome
+user_000007#2025-10-30T03:45:40#sess_ef6bbfca56,user_000007,sess_ef6bbfca56,2025-10-30T03:45:40,2025-10-30T04:10:01,1461,abandoned,affiliate,15,6,West Stevenberg,AZ,DE,desktop,iOS,Safari
+user_000007#2025-10-30T05:37:04#sess_56021cc3e5,user_000007,sess_56021cc3e5,2025-10-30T05:37:04,2025-10-30T05:44:17,433,browsed,search_engine,11,3,West Stevenberg,AZ,DE,mobile,Android,Firefox
+user_000007#2025-10-30T16:46:55#sess_6a17af2c8f,user_000007,sess_6a17af2c8f,2025-10-30T16:46:55,2025-10-30T17:28:56,2521,abandoned,affiliate,14,6,West Stevenberg,AZ,DE,tablet,macOS,Firefox
+user_000007#2025-11-01T00:37:23#sess_597beb24a1,user_000007,sess_597beb24a1,2025-11-01T00:37:23,2025-11-01T01:07:52,1829,abandoned,search_engine,5,1,West Stevenberg,AZ,DE,desktop,Windows,Chrome
+user_000007#2025-11-01T14:12:54#sess_2ddc7eca0e,user_000007,sess_2ddc7eca0e,2025-11-01T14:12:54,2025-11-01T14:21:08,494,browsed,affiliate,5,2,West Stevenberg,AZ,DE,mobile,Windows,Chrome
+user_000007#2025-11-01T16:36:52#sess_301df81d99,user_000007,sess_301df81d99,2025-11-01T16:36:52,2025-11-01T17:03:09,1577,abandoned,email,5,2,West Stevenberg,AZ,DE,desktop,Windows,Chrome
+user_000007#2025-11-01T19:39:20#sess_44fc388991,user_000007,sess_44fc388991,2025-11-01T19:39:20,2025-11-01T20:23:05,2625,browsed,social,6,1,West Stevenberg,AZ,DE,mobile,Windows,Edge
+user_000007#2025-11-04T12:04:36#sess_66e6e4262e,user_000007,sess_66e6e4262e,2025-11-04T12:04:36,2025-11-04T12:53:29,2933,abandoned,social,9,2,West Stevenberg,AZ,DE,desktop,Windows,Chrome
+user_000007#2025-11-06T04:01:29#sess_5349453c3f,user_000007,sess_5349453c3f,2025-11-06T04:01:29,2025-11-06T04:50:34,2945,browsed,social,9,4,West Stevenberg,AZ,DE,mobile,Windows,Chrome
+user_000007#2025-11-06T13:15:25#sess_cab208b3aa,user_000007,sess_cab208b3aa,2025-11-06T13:15:25,2025-11-06T13:54:28,2343,browsed,direct,8,3,West Stevenberg,AZ,DE,mobile,macOS,Chrome
+user_000007#2025-11-08T04:08:32#sess_71eb0ca7f2,user_000007,sess_71eb0ca7f2,2025-11-08T04:08:32,2025-11-08T04:35:49,1637,browsed,social,5,0,West Stevenberg,AZ,DE,mobile,Android,Firefox
+user_000007#2025-11-10T02:10:27#sess_7763e5a930,user_000007,sess_7763e5a930,2025-11-10T02:10:27,2025-11-10T02:47:59,2252,converted,social,16,6,West Stevenberg,AZ,DE,mobile,iOS,Chrome
+user_000007#2025-11-10T04:31:36#sess_a3607ac0cd,user_000007,sess_a3607ac0cd,2025-11-10T04:31:36,2025-11-10T05:24:57,3201,browsed,social,10,5,West Stevenberg,AZ,DE,desktop,Android,Chrome
+user_000007#2025-11-13T00:50:25#sess_39a37be5ae,user_000007,sess_39a37be5ae,2025-11-13T00:50:25,2025-11-13T01:44:35,3250,browsed,affiliate,6,3,West Stevenberg,AZ,DE,tablet,macOS,Safari
+user_000007#2025-11-13T13:20:45#sess_333f2d65ad,user_000007,sess_333f2d65ad,2025-11-13T13:20:45,2025-11-13T14:06:34,2749,browsed,search_engine,8,2,West Stevenberg,AZ,DE,desktop,iOS,Chrome
+user_000007#2025-11-17T18:38:37#sess_5e9e0acfb7,user_000007,sess_5e9e0acfb7,2025-11-17T18:38:37,2025-11-17T19:29:56,3079,abandoned,affiliate,13,5,West Stevenberg,AZ,DE,mobile,macOS,Chrome
+user_000007#2025-11-19T01:35:40#sess_785e73e4fd,user_000007,sess_785e73e4fd,2025-11-19T01:35:40,2025-11-19T02:03:30,1670,abandoned,email,12,6,West Stevenberg,AZ,DE,tablet,Android,Firefox
+user_000007#2025-11-20T08:39:24#sess_6b92d190fa,user_000007,sess_6b92d190fa,2025-11-20T08:39:24,2025-11-20T09:29:21,2997,abandoned,email,13,4,West Stevenberg,AZ,DE,mobile,iOS,Safari
+user_000007#2025-11-22T21:15:40#sess_4d6511e1c4,user_000007,sess_4d6511e1c4,2025-11-22T21:15:40,2025-11-22T21:20:07,267,browsed,direct,4,2,West Stevenberg,AZ,DE,desktop,Android,Safari
+user_000007#2025-11-25T04:50:21#sess_215261339c,user_000007,sess_215261339c,2025-11-25T04:50:21,2025-11-25T05:21:57,1896,abandoned,affiliate,5,3,West Stevenberg,AZ,DE,desktop,Android,Chrome
+user_000007#2025-11-28T10:12:12#sess_7468728966,user_000007,sess_7468728966,2025-11-28T10:12:12,2025-11-28T10:42:08,1796,browsed,email,5,2,West Stevenberg,AZ,DE,desktop,Android,Edge
+user_000007#2025-12-01T02:22:53#sess_100f4af721,user_000007,sess_100f4af721,2025-12-01T02:22:53,2025-12-01T02:49:27,1594,browsed,affiliate,12,4,West Stevenberg,AZ,DE,desktop,macOS,Firefox
+user_000007#2025-12-01T03:51:15#sess_1b6842ef41,user_000007,sess_1b6842ef41,2025-12-01T03:51:15,2025-12-01T04:18:51,1656,abandoned,social,15,3,West Stevenberg,AZ,DE,tablet,Android,Safari
+user_000007#2025-12-03T00:26:41#sess_47b51f71db,user_000007,sess_47b51f71db,2025-12-03T00:26:41,2025-12-03T00:54:36,1675,abandoned,social,16,4,West Stevenberg,AZ,DE,tablet,Android,Edge
+user_000007#2025-12-03T11:38:34#sess_2f1db85c1d,user_000007,sess_2f1db85c1d,2025-12-03T11:38:34,2025-12-03T12:18:25,2391,browsed,social,8,2,West Stevenberg,AZ,DE,tablet,Windows,Firefox
+user_000007#2025-12-04T10:35:38#sess_984da29917,user_000007,sess_984da29917,2025-12-04T10:35:38,2025-12-04T11:27:32,3114,browsed,direct,7,4,West Stevenberg,AZ,DE,tablet,macOS,Safari
+user_000007#2025-12-04T22:40:31#sess_7b8d743ed4,user_000007,sess_7b8d743ed4,2025-12-04T22:40:31,2025-12-04T23:35:37,3306,converted,search_engine,9,3,West Stevenberg,AZ,DE,mobile,Windows,Safari
+user_000007#2025-12-05T04:46:53#sess_a9e832179a,user_000007,sess_a9e832179a,2025-12-05T04:46:53,2025-12-05T05:14:34,1661,converted,direct,11,5,West Stevenberg,AZ,DE,mobile,Android,Chrome
+user_000007#2025-12-08T11:26:06#sess_fedeabb36e,user_000007,sess_fedeabb36e,2025-12-08T11:26:06,2025-12-08T12:08:33,2547,converted,affiliate,12,2,West Stevenberg,AZ,DE,mobile,Windows,Edge
+user_000007#2025-12-12T20:32:53#sess_56a20a459b,user_000007,sess_56a20a459b,2025-12-12T20:32:53,2025-12-12T21:10:15,2242,converted,affiliate,10,4,West Stevenberg,AZ,DE,mobile,Windows,Chrome
+user_000007#2025-12-13T00:46:02#sess_991fec2f52,user_000007,sess_991fec2f52,2025-12-13T00:46:02,2025-12-13T01:00:01,839,browsed,search_engine,5,0,West Stevenberg,AZ,DE,desktop,Android,Firefox
+user_000007#2025-12-13T00:55:16#sess_95ba2a7f11,user_000007,sess_95ba2a7f11,2025-12-13T00:55:16,2025-12-13T01:52:01,3405,converted,affiliate,14,4,West Stevenberg,AZ,DE,desktop,macOS,Chrome
+user_000007#2025-12-13T01:02:13#sess_6c8a95653b,user_000007,sess_6c8a95653b,2025-12-13T01:02:13,2025-12-13T01:03:16,63,browsed,search_engine,15,5,West Stevenberg,AZ,DE,mobile,Android,Chrome
+user_000007#2025-12-14T13:38:39#sess_b7d07c47b3,user_000007,sess_b7d07c47b3,2025-12-14T13:38:39,2025-12-14T13:45:40,421,abandoned,affiliate,9,5,West Stevenberg,AZ,DE,tablet,Windows,Safari
+user_000007#2025-12-15T18:14:03#sess_464a17bcdd,user_000007,sess_464a17bcdd,2025-12-15T18:14:03,2025-12-15T18:26:14,731,browsed,affiliate,9,3,West Stevenberg,AZ,DE,desktop,macOS,Safari
+user_000007#2025-12-16T09:54:12#sess_94830ebf9a,user_000007,sess_94830ebf9a,2025-12-16T09:54:12,2025-12-16T10:54:07,3595,converted,affiliate,16,5,West Stevenberg,AZ,DE,tablet,macOS,Safari
+user_000007#2025-12-17T23:02:49#sess_91a64282bb,user_000007,sess_91a64282bb,2025-12-17T23:02:49,2025-12-17T23:44:28,2499,abandoned,direct,14,4,West Stevenberg,AZ,DE,desktop,macOS,Safari
+user_000007#2025-12-18T01:40:17#sess_b0e395e98a,user_000007,sess_b0e395e98a,2025-12-18T01:40:17,2025-12-18T01:56:10,953,browsed,direct,6,1,West Stevenberg,AZ,DE,desktop,iOS,Firefox
+user_000007#2025-12-23T03:33:45#sess_c9af608895,user_000007,sess_c9af608895,2025-12-23T03:33:45,2025-12-23T03:47:01,796,abandoned,direct,6,1,West Stevenberg,AZ,DE,mobile,Android,Edge
+user_000007#2025-12-25T10:21:45#sess_a6048125f4,user_000007,sess_a6048125f4,2025-12-25T10:21:45,2025-12-25T10:23:32,107,converted,social,14,6,West Stevenberg,AZ,DE,tablet,macOS,Edge
+user_000007#2025-12-27T03:13:02#sess_b807a48092,user_000007,sess_b807a48092,2025-12-27T03:13:02,2025-12-27T03:43:58,1856,converted,social,15,5,West Stevenberg,AZ,DE,desktop,Android,Chrome
+user_000007#2025-12-27T07:38:13#sess_c87a332a18,user_000007,sess_c87a332a18,2025-12-27T07:38:13,2025-12-27T08:12:43,2070,browsed,affiliate,8,3,West Stevenberg,AZ,DE,tablet,macOS,Chrome
+user_000007#2025-12-29T11:11:24#sess_251be3c89a,user_000007,sess_251be3c89a,2025-12-29T11:11:24,2025-12-29T11:49:21,2277,converted,social,16,5,West Stevenberg,AZ,DE,mobile,Android,Edge
+user_000007#2025-12-31T05:31:33#sess_fee0ebe5d6,user_000007,sess_fee0ebe5d6,2025-12-31T05:31:33,2025-12-31T06:06:04,2071,abandoned,search_engine,7,1,West Stevenberg,AZ,DE,desktop,macOS,Chrome
+user_000007#2026-01-02T17:43:13#sess_6c252c5299,user_000007,sess_6c252c5299,2026-01-02T17:43:13,2026-01-02T18:25:18,2525,abandoned,direct,12,5,West Stevenberg,AZ,DE,desktop,Windows,Chrome
+user_000007#2026-01-03T07:19:09#sess_48f29e0afb,user_000007,sess_48f29e0afb,2026-01-03T07:19:09,2026-01-03T07:25:23,374,converted,direct,11,3,West Stevenberg,AZ,DE,mobile,Android,Firefox
+user_000007#2026-01-04T19:02:44#sess_31145981c2,user_000007,sess_31145981c2,2026-01-04T19:02:44,2026-01-04T19:09:22,398,browsed,social,6,2,West Stevenberg,AZ,DE,desktop,Windows,Safari
+user_000007#2026-01-05T11:50:46#sess_62fd2bf37c,user_000007,sess_62fd2bf37c,2026-01-05T11:50:46,2026-01-05T12:50:19,3573,browsed,affiliate,5,3,West Stevenberg,AZ,DE,mobile,Android,Safari
+user_000007#2026-01-09T06:14:53#sess_e4140dca62,user_000007,sess_e4140dca62,2026-01-09T06:14:53,2026-01-09T06:47:12,1939,converted,search_engine,14,5,West Stevenberg,AZ,DE,tablet,Android,Firefox
+user_000007#2026-01-10T12:57:42#sess_2a19b05226,user_000007,sess_2a19b05226,2026-01-10T12:57:42,2026-01-10T13:01:57,255,abandoned,social,16,7,West Stevenberg,AZ,DE,desktop,Android,Safari
+user_000007#2026-01-10T16:09:41#sess_93b200fadd,user_000007,sess_93b200fadd,2026-01-10T16:09:41,2026-01-10T17:03:14,3213,converted,social,9,3,West Stevenberg,AZ,DE,mobile,iOS,Chrome
+user_000007#2026-01-11T15:03:00#sess_fcda37fd97,user_000007,sess_fcda37fd97,2026-01-11T15:03:00,2026-01-11T15:18:08,908,converted,search_engine,8,3,West Stevenberg,AZ,DE,mobile,iOS,Chrome
+user_000007#2026-01-12T05:44:11#sess_c84718c4bc,user_000007,sess_c84718c4bc,2026-01-12T05:44:11,2026-01-12T06:10:58,1607,abandoned,social,15,6,West Stevenberg,AZ,DE,mobile,Android,Safari
+user_000007#2026-01-12T19:26:17#sess_26467afd7f,user_000007,sess_26467afd7f,2026-01-12T19:26:17,2026-01-12T20:00:55,2078,converted,direct,13,2,West Stevenberg,AZ,DE,tablet,iOS,Chrome
+user_000007#2026-01-13T09:03:41#sess_3e74732147,user_000007,sess_3e74732147,2026-01-13T09:03:41,2026-01-13T09:29:51,1570,browsed,social,15,4,West Stevenberg,AZ,DE,desktop,iOS,Edge
+user_000008#2025-10-25T04:51:00#sess_9b9b77acce,user_000008,sess_9b9b77acce,2025-10-25T04:51:00,2025-10-25T05:23:10,1930,browsed,social,10,3,Port Sarahport,NM,TO,mobile,macOS,Edge
+user_000008#2025-10-25T21:05:47#sess_92cd88b25b,user_000008,sess_92cd88b25b,2025-10-25T21:05:47,2025-10-25T21:20:29,882,abandoned,affiliate,12,3,Port Sarahport,NM,TO,desktop,iOS,Edge
+user_000008#2025-10-28T19:57:13#sess_cf00ba1378,user_000008,sess_cf00ba1378,2025-10-28T19:57:13,2025-10-28T20:25:47,1714,abandoned,social,9,2,Port Sarahport,NM,TO,mobile,iOS,Safari
+user_000008#2025-11-01T08:13:31#sess_599a22540c,user_000008,sess_599a22540c,2025-11-01T08:13:31,2025-11-01T08:31:41,1090,abandoned,direct,13,4,Port Sarahport,NM,TO,desktop,iOS,Chrome
+user_000008#2025-11-04T18:15:55#sess_c9d95e2945,user_000008,sess_c9d95e2945,2025-11-04T18:15:55,2025-11-04T19:07:57,3122,abandoned,direct,11,5,Port Sarahport,NM,TO,mobile,Android,Edge
+user_000008#2025-11-04T23:01:39#sess_46b716912f,user_000008,sess_46b716912f,2025-11-04T23:01:39,2025-11-04T23:36:12,2073,abandoned,email,6,2,Port Sarahport,NM,TO,tablet,iOS,Chrome
+user_000008#2025-11-05T23:51:54#sess_efd062f72b,user_000008,sess_efd062f72b,2025-11-05T23:51:54,2025-11-06T00:47:51,3357,abandoned,affiliate,10,1,Port Sarahport,NM,TO,tablet,Windows,Chrome
+user_000008#2025-11-07T04:52:26#sess_de35a74a5a,user_000008,sess_de35a74a5a,2025-11-07T04:52:26,2025-11-07T05:06:57,871,abandoned,email,16,8,Port Sarahport,NM,TO,mobile,iOS,Chrome
+user_000008#2025-11-16T11:17:41#sess_3807e67ffa,user_000008,sess_3807e67ffa,2025-11-16T11:17:41,2025-11-16T12:08:51,3070,browsed,affiliate,11,4,Port Sarahport,NM,TO,mobile,iOS,Safari
+user_000008#2025-11-17T08:31:11#sess_4730197353,user_000008,sess_4730197353,2025-11-17T08:31:11,2025-11-17T08:57:41,1590,browsed,search_engine,6,2,Port Sarahport,NM,TO,desktop,macOS,Safari
+user_000008#2025-11-17T21:58:03#sess_3711cecfbc,user_000008,sess_3711cecfbc,2025-11-17T21:58:03,2025-11-17T22:43:36,2733,converted,search_engine,15,3,Port Sarahport,NM,TO,desktop,iOS,Firefox
+user_000008#2025-11-21T10:19:21#sess_c5722ec6eb,user_000008,sess_c5722ec6eb,2025-11-21T10:19:21,2025-11-21T10:54:32,2111,browsed,direct,9,1,Port Sarahport,NM,TO,tablet,iOS,Edge
+user_000008#2025-11-21T11:26:45#sess_8eed86bea0,user_000008,sess_8eed86bea0,2025-11-21T11:26:45,2025-11-21T11:49:15,1350,abandoned,email,13,6,Port Sarahport,NM,TO,mobile,macOS,Safari
+user_000008#2025-11-22T03:38:04#sess_77a309787f,user_000008,sess_77a309787f,2025-11-22T03:38:04,2025-11-22T03:42:24,260,abandoned,social,10,4,Port Sarahport,NM,TO,mobile,Windows,Firefox
+user_000008#2025-11-22T14:10:31#sess_62d0e85166,user_000008,sess_62d0e85166,2025-11-22T14:10:31,2025-11-22T14:52:28,2517,browsed,affiliate,7,3,Port Sarahport,NM,TO,desktop,Windows,Safari
+user_000008#2025-11-25T21:01:54#sess_b6ad8b5af9,user_000008,sess_b6ad8b5af9,2025-11-25T21:01:54,2025-11-25T21:09:00,426,converted,email,9,2,Port Sarahport,NM,TO,tablet,macOS,Chrome
+user_000008#2025-11-28T02:09:10#sess_1d09a55375,user_000008,sess_1d09a55375,2025-11-28T02:09:10,2025-11-28T03:07:50,3520,converted,email,14,6,Port Sarahport,NM,TO,tablet,Windows,Firefox
+user_000008#2025-11-28T10:15:38#sess_8e4dda563a,user_000008,sess_8e4dda563a,2025-11-28T10:15:38,2025-11-28T10:17:33,115,abandoned,search_engine,6,4,Port Sarahport,NM,TO,tablet,Android,Safari
+user_000008#2025-12-01T06:14:35#sess_391f9226bc,user_000008,sess_391f9226bc,2025-12-01T06:14:35,2025-12-01T06:28:14,819,browsed,direct,11,3,Port Sarahport,NM,TO,tablet,Android,Chrome
+user_000008#2025-12-01T17:42:02#sess_7da25eb7ab,user_000008,sess_7da25eb7ab,2025-12-01T17:42:02,2025-12-01T18:30:49,2927,abandoned,search_engine,9,3,Port Sarahport,NM,TO,mobile,macOS,Safari
+user_000008#2025-12-02T03:02:33#sess_44e60c7bc1,user_000008,sess_44e60c7bc1,2025-12-02T03:02:33,2025-12-02T03:24:16,1303,abandoned,direct,15,6,Port Sarahport,NM,TO,desktop,macOS,Safari
+user_000008#2025-12-02T22:03:36#sess_f56472bf6e,user_000008,sess_f56472bf6e,2025-12-02T22:03:36,2025-12-02T22:17:35,839,browsed,social,6,0,Port Sarahport,NM,TO,tablet,Android,Chrome
+user_000008#2025-12-03T21:41:04#sess_270d8fad50,user_000008,sess_270d8fad50,2025-12-03T21:41:04,2025-12-03T22:29:48,2924,converted,affiliate,12,4,Port Sarahport,NM,TO,desktop,iOS,Chrome
+user_000008#2025-12-04T08:30:38#sess_13db86ab6b,user_000008,sess_13db86ab6b,2025-12-04T08:30:38,2025-12-04T09:02:21,1903,abandoned,direct,12,4,Port Sarahport,NM,TO,desktop,Android,Firefox
+user_000008#2025-12-04T19:05:55#sess_b6158e5a5c,user_000008,sess_b6158e5a5c,2025-12-04T19:05:55,2025-12-04T19:32:04,1569,browsed,social,4,1,Port Sarahport,NM,TO,desktop,iOS,Edge
+user_000008#2025-12-05T20:21:58#sess_48948b3dad,user_000008,sess_48948b3dad,2025-12-05T20:21:58,2025-12-05T20:30:51,533,converted,affiliate,16,7,Port Sarahport,NM,TO,mobile,macOS,Firefox
+user_000008#2025-12-05T20:31:30#sess_2b071eea86,user_000008,sess_2b071eea86,2025-12-05T20:31:30,2025-12-05T21:04:54,2004,converted,search_engine,9,3,Port Sarahport,NM,TO,desktop,macOS,Edge
+user_000008#2025-12-06T20:04:22#sess_9abff89ca3,user_000008,sess_9abff89ca3,2025-12-06T20:04:22,2025-12-06T20:42:50,2308,converted,social,16,5,Port Sarahport,NM,TO,mobile,macOS,Safari
+user_000008#2025-12-10T04:56:03#sess_8ec691c0e4,user_000008,sess_8ec691c0e4,2025-12-10T04:56:03,2025-12-10T05:36:46,2443,converted,email,14,6,Port Sarahport,NM,TO,desktop,Android,Safari
+user_000008#2025-12-11T09:07:31#sess_2d64b50752,user_000008,sess_2d64b50752,2025-12-11T09:07:31,2025-12-11T09:52:22,2691,browsed,search_engine,4,1,Port Sarahport,NM,TO,mobile,macOS,Safari
+user_000008#2025-12-11T14:57:16#sess_c37980831f,user_000008,sess_c37980831f,2025-12-11T14:57:16,2025-12-11T15:48:32,3076,abandoned,direct,13,7,Port Sarahport,NM,TO,desktop,iOS,Safari
+user_000008#2025-12-14T03:58:37#sess_b3e39fcc78,user_000008,sess_b3e39fcc78,2025-12-14T03:58:37,2025-12-14T04:26:31,1674,abandoned,direct,15,8,Port Sarahport,NM,TO,tablet,macOS,Chrome
+user_000008#2025-12-17T12:12:04#sess_9773346da0,user_000008,sess_9773346da0,2025-12-17T12:12:04,2025-12-17T12:23:24,680,converted,affiliate,10,3,Port Sarahport,NM,TO,desktop,Windows,Edge
+user_000008#2025-12-28T04:54:46#sess_ee4fd42c8d,user_000008,sess_ee4fd42c8d,2025-12-28T04:54:46,2025-12-28T05:30:43,2157,converted,search_engine,16,4,Port Sarahport,NM,TO,mobile,Android,Firefox
+user_000008#2025-12-30T19:43:55#sess_74b4578057,user_000008,sess_74b4578057,2025-12-30T19:43:55,2025-12-30T20:21:32,2257,abandoned,affiliate,9,2,Port Sarahport,NM,TO,desktop,iOS,Safari
+user_000008#2026-01-02T07:07:47#sess_923deec2b9,user_000008,sess_923deec2b9,2026-01-02T07:07:47,2026-01-02T07:37:00,1753,abandoned,search_engine,8,5,Port Sarahport,NM,TO,mobile,macOS,Firefox
+user_000008#2026-01-02T17:14:03#sess_3c9d0f4956,user_000008,sess_3c9d0f4956,2026-01-02T17:14:03,2026-01-02T17:55:49,2506,browsed,direct,10,2,Port Sarahport,NM,TO,desktop,Android,Chrome
+user_000008#2026-01-03T02:02:35#sess_65361f9b7b,user_000008,sess_65361f9b7b,2026-01-03T02:02:35,2026-01-03T02:48:47,2772,browsed,direct,15,5,Port Sarahport,NM,TO,tablet,Windows,Edge
+user_000008#2026-01-03T06:36:27#sess_8edff564bf,user_000008,sess_8edff564bf,2026-01-03T06:36:27,2026-01-03T06:39:57,210,browsed,affiliate,12,5,Port Sarahport,NM,TO,mobile,iOS,Edge
+user_000008#2026-01-06T01:39:34#sess_1a8a33cb99,user_000008,sess_1a8a33cb99,2026-01-06T01:39:34,2026-01-06T02:02:33,1379,browsed,affiliate,8,2,Port Sarahport,NM,TO,mobile,macOS,Chrome
+user_000008#2026-01-06T15:42:06#sess_f88f3782d8,user_000008,sess_f88f3782d8,2026-01-06T15:42:06,2026-01-06T16:18:41,2195,converted,social,11,4,Port Sarahport,NM,TO,mobile,Android,Safari
+user_000008#2026-01-06T18:30:03#sess_3966499b95,user_000008,sess_3966499b95,2026-01-06T18:30:03,2026-01-06T18:44:20,857,converted,search_engine,16,4,Port Sarahport,NM,TO,tablet,Android,Firefox
+user_000008#2026-01-07T02:49:53#sess_92b6d095ab,user_000008,sess_92b6d095ab,2026-01-07T02:49:53,2026-01-07T03:48:06,3493,abandoned,email,15,6,Port Sarahport,NM,TO,desktop,iOS,Firefox
+user_000008#2026-01-08T08:13:09#sess_02107315cc,user_000008,sess_02107315cc,2026-01-08T08:13:09,2026-01-08T08:50:25,2236,abandoned,email,12,4,Port Sarahport,NM,TO,mobile,Android,Safari
+user_000008#2026-01-08T19:13:11#sess_46f73627b3,user_000008,sess_46f73627b3,2026-01-08T19:13:11,2026-01-08T19:22:44,573,abandoned,search_engine,5,2,Port Sarahport,NM,TO,desktop,Windows,Chrome
+user_000008#2026-01-12T09:20:38#sess_4e2892ebcc,user_000008,sess_4e2892ebcc,2026-01-12T09:20:38,2026-01-12T09:32:44,726,browsed,social,6,1,Port Sarahport,NM,TO,tablet,Android,Safari
+user_000008#2026-01-13T21:38:31#sess_c2761087e0,user_000008,sess_c2761087e0,2026-01-13T21:38:31,2026-01-13T22:36:39,3488,abandoned,affiliate,16,5,Port Sarahport,NM,TO,tablet,iOS,Safari
+user_000008#2026-01-15T05:47:20#sess_879136667b,user_000008,sess_879136667b,2026-01-15T05:47:20,2026-01-15T06:42:43,3323,abandoned,email,13,5,Port Sarahport,NM,TO,mobile,Android,Edge
+user_000008#2026-01-17T13:58:41#sess_4a38a4a7f1,user_000008,sess_4a38a4a7f1,2026-01-17T13:58:41,2026-01-17T14:48:04,2963,abandoned,social,5,3,Port Sarahport,NM,TO,tablet,Windows,Chrome
+user_000008#2026-01-18T15:08:18#sess_2afd43fb9a,user_000008,sess_2afd43fb9a,2026-01-18T15:08:18,2026-01-18T15:50:38,2540,browsed,social,5,2,Port Sarahport,NM,TO,tablet,Windows,Edge
+user_000009#2025-10-21T11:59:52#sess_0e28236292,user_000009,sess_0e28236292,2025-10-21T11:59:52,2025-10-21T12:44:00,2648,abandoned,direct,7,3,Port Jasminehaven,IN,ER,tablet,Android,Firefox
+user_000009#2025-10-21T15:16:03#sess_1a719e44e4,user_000009,sess_1a719e44e4,2025-10-21T15:16:03,2025-10-21T15:20:24,261,browsed,email,10,2,Port Jasminehaven,IN,ER,mobile,Android,Chrome
+user_000009#2025-10-22T12:08:34#sess_657328bb9e,user_000009,sess_657328bb9e,2025-10-22T12:08:34,2025-10-22T12:26:10,1056,abandoned,affiliate,8,4,Port Jasminehaven,IN,ER,mobile,Windows,Chrome
+user_000009#2025-10-25T02:26:05#sess_f3d41eecf1,user_000009,sess_f3d41eecf1,2025-10-25T02:26:05,2025-10-25T03:04:03,2278,abandoned,affiliate,4,2,Port Jasminehaven,IN,ER,desktop,Windows,Chrome
+user_000009#2025-10-28T20:03:59#sess_aead493a4e,user_000009,sess_aead493a4e,2025-10-28T20:03:59,2025-10-28T20:48:55,2696,browsed,direct,4,1,Port Jasminehaven,IN,ER,mobile,iOS,Chrome
+user_000009#2025-11-03T21:53:39#sess_afc41beca4,user_000009,sess_afc41beca4,2025-11-03T21:53:39,2025-11-03T21:56:40,181,abandoned,email,15,3,Port Jasminehaven,IN,ER,desktop,Windows,Chrome
+user_000009#2025-11-09T03:36:03#sess_e6a7cf3bcc,user_000009,sess_e6a7cf3bcc,2025-11-09T03:36:03,2025-11-09T04:08:46,1963,converted,direct,13,4,Port Jasminehaven,IN,ER,desktop,iOS,Firefox
+user_000009#2025-11-11T17:52:56#sess_f3cac0d660,user_000009,sess_f3cac0d660,2025-11-11T17:52:56,2025-11-11T18:28:39,2143,abandoned,search_engine,9,4,Port Jasminehaven,IN,ER,tablet,macOS,Firefox
+user_000009#2025-11-13T19:41:41#sess_2dffa23965,user_000009,sess_2dffa23965,2025-11-13T19:41:41,2025-11-13T19:55:27,826,converted,search_engine,7,3,Port Jasminehaven,IN,ER,tablet,macOS,Chrome
+user_000009#2025-11-14T03:33:05#sess_f63b102843,user_000009,sess_f63b102843,2025-11-14T03:33:05,2025-11-14T04:32:28,3563,abandoned,direct,11,4,Port Jasminehaven,IN,ER,tablet,Windows,Chrome
+user_000009#2025-11-20T08:24:06#sess_e63be4d310,user_000009,sess_e63be4d310,2025-11-20T08:24:06,2025-11-20T09:15:16,3070,abandoned,social,13,4,Port Jasminehaven,IN,ER,tablet,Android,Firefox
+user_000009#2025-11-22T06:05:42#sess_65f9e4c199,user_000009,sess_65f9e4c199,2025-11-22T06:05:42,2025-11-22T06:23:08,1046,converted,affiliate,11,4,Port Jasminehaven,IN,ER,tablet,macOS,Safari
+user_000009#2025-11-22T23:58:14#sess_b76f6bc6f0,user_000009,sess_b76f6bc6f0,2025-11-22T23:58:14,2025-11-23T00:22:05,1431,browsed,email,11,3,Port Jasminehaven,IN,ER,mobile,Windows,Edge
+user_000009#2025-11-23T02:26:29#sess_bd0cf1ec05,user_000009,sess_bd0cf1ec05,2025-11-23T02:26:29,2025-11-23T02:54:33,1684,abandoned,direct,12,6,Port Jasminehaven,IN,ER,tablet,iOS,Safari
+user_000009#2025-11-23T09:06:08#sess_6f37f7279d,user_000009,sess_6f37f7279d,2025-11-23T09:06:08,2025-11-23T10:01:06,3298,abandoned,direct,10,4,Port Jasminehaven,IN,ER,mobile,iOS,Firefox
+user_000009#2025-11-23T21:37:23#sess_4a2359d005,user_000009,sess_4a2359d005,2025-11-23T21:37:23,2025-11-23T22:20:46,2603,abandoned,search_engine,15,5,Port Jasminehaven,IN,ER,mobile,iOS,Safari
+user_000009#2025-11-25T10:45:43#sess_d3b0b6d70b,user_000009,sess_d3b0b6d70b,2025-11-25T10:45:43,2025-11-25T11:01:06,923,abandoned,search_engine,8,3,Port Jasminehaven,IN,ER,tablet,Windows,Safari
+user_000009#2025-11-26T04:46:02#sess_210ee52a42,user_000009,sess_210ee52a42,2025-11-26T04:46:02,2025-11-26T05:38:46,3164,converted,email,16,8,Port Jasminehaven,IN,ER,tablet,Windows,Firefox
+user_000009#2025-11-29T09:12:47#sess_9f52f5f5ba,user_000009,sess_9f52f5f5ba,2025-11-29T09:12:47,2025-11-29T09:27:51,904,abandoned,search_engine,11,5,Port Jasminehaven,IN,ER,mobile,macOS,Firefox
+user_000009#2025-11-29T13:51:09#sess_1abff05f3b,user_000009,sess_1abff05f3b,2025-11-29T13:51:09,2025-11-29T14:35:35,2666,abandoned,social,13,3,Port Jasminehaven,IN,ER,desktop,iOS,Safari
+user_000009#2025-12-03T16:38:22#sess_8bbd14f89b,user_000009,sess_8bbd14f89b,2025-12-03T16:38:22,2025-12-03T17:20:10,2508,abandoned,search_engine,5,3,Port Jasminehaven,IN,ER,tablet,Android,Edge
+user_000009#2025-12-05T07:07:09#sess_7b178b2e03,user_000009,sess_7b178b2e03,2025-12-05T07:07:09,2025-12-05T07:43:55,2206,browsed,direct,6,1,Port Jasminehaven,IN,ER,mobile,Windows,Safari
+user_000009#2025-12-08T01:55:48#sess_64578237ea,user_000009,sess_64578237ea,2025-12-08T01:55:48,2025-12-08T02:49:38,3230,abandoned,social,13,3,Port Jasminehaven,IN,ER,mobile,Windows,Safari
+user_000009#2025-12-08T09:37:23#sess_2c52853187,user_000009,sess_2c52853187,2025-12-08T09:37:23,2025-12-08T10:25:56,2913,abandoned,email,9,2,Port Jasminehaven,IN,ER,tablet,iOS,Firefox
+user_000009#2025-12-10T00:45:59#sess_1c80d0684f,user_000009,sess_1c80d0684f,2025-12-10T00:45:59,2025-12-10T01:27:40,2501,browsed,search_engine,13,3,Port Jasminehaven,IN,ER,desktop,Android,Edge
+user_000009#2025-12-10T10:46:13#sess_973337fc14,user_000009,sess_973337fc14,2025-12-10T10:46:13,2025-12-10T11:26:39,2426,converted,direct,16,6,Port Jasminehaven,IN,ER,desktop,macOS,Firefox
+user_000009#2025-12-11T18:32:57#sess_3179d65260,user_000009,sess_3179d65260,2025-12-11T18:32:57,2025-12-11T18:39:19,382,converted,affiliate,10,5,Port Jasminehaven,IN,ER,mobile,Android,Chrome
+user_000009#2025-12-14T06:47:37#sess_c859655ce3,user_000009,sess_c859655ce3,2025-12-14T06:47:37,2025-12-14T07:19:44,1927,abandoned,affiliate,15,4,Port Jasminehaven,IN,ER,desktop,macOS,Edge
+user_000009#2025-12-15T12:00:08#sess_29dbe8eea3,user_000009,sess_29dbe8eea3,2025-12-15T12:00:08,2025-12-15T12:40:09,2401,browsed,search_engine,15,3,Port Jasminehaven,IN,ER,mobile,iOS,Safari
+user_000009#2025-12-18T08:44:52#sess_677c73c44e,user_000009,sess_677c73c44e,2025-12-18T08:44:52,2025-12-18T09:40:26,3334,abandoned,direct,15,9,Port Jasminehaven,IN,ER,mobile,Android,Chrome
+user_000009#2025-12-20T20:58:07#sess_35eb0b4809,user_000009,sess_35eb0b4809,2025-12-20T20:58:07,2025-12-20T21:52:44,3277,converted,search_engine,16,4,Port Jasminehaven,IN,ER,mobile,Windows,Safari
+user_000009#2025-12-22T05:55:31#sess_4fdb42f44c,user_000009,sess_4fdb42f44c,2025-12-22T05:55:31,2025-12-22T06:21:24,1553,converted,email,8,2,Port Jasminehaven,IN,ER,tablet,macOS,Chrome
+user_000009#2025-12-24T04:13:14#sess_8e29401439,user_000009,sess_8e29401439,2025-12-24T04:13:14,2025-12-24T04:31:16,1082,converted,email,7,2,Port Jasminehaven,IN,ER,desktop,macOS,Edge
+user_000009#2025-12-25T07:42:22#sess_a9d19307a7,user_000009,sess_a9d19307a7,2025-12-25T07:42:22,2025-12-25T07:46:40,258,abandoned,affiliate,4,2,Port Jasminehaven,IN,ER,mobile,macOS,Safari
+user_000009#2025-12-25T13:17:51#sess_f1f234dd83,user_000009,sess_f1f234dd83,2025-12-25T13:17:51,2025-12-25T13:37:55,1204,converted,email,15,5,Port Jasminehaven,IN,ER,tablet,Android,Safari

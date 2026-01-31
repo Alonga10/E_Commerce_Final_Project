@@ -1,0 +1,7 @@
+stage,sessions_count,pct_from_previous_stage,pct_of_total_sessions
+Home,38672,100.00%,77.34%
+Category Listing,38672,100.00%,77.34%
+Product Detail,38672,100.00%,77.34%
+Cart,33989,87.89%,67.98%
+Checkout,21848,64.28%,43.70%
+Confirmation,16381,74.98%,32.76%
